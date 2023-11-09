@@ -1,0 +1,663 @@
+
+        <!DOCTYPE html>
+            <html>
+            <head>
+                <meta charset="UTF-8">
+                <title></title>
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+            </head>
+            <style>
+                /* For details page css */
+                    /* CSS styles go here */
+                    body {
+                        font-family: Arial, sans-serif;
+                    }
+
+                    body, html {
+                        margin: 0;
+                        padding: 0;
+                        height: 100%;
+                    }
+
+                    table {
+                        border-collapse: collapse;
+                        width: 100%;
+                    }
+
+                    .table-container {
+                        margin-top: 40px;
+                    }
+                    .table-container-details {
+                        margin-top: 60px;
+                    }
+
+
+                    /* thead {
+                        background-color: #f2f2f2;
+                        position: sticky;
+                        top: 0; 
+                    } */
+                    th, td {
+                        border: 1px solid #ccc;
+                        padding: 8px;
+                        text-align: left;
+                        cursor: pointer;
+                    }
+
+                    th {
+                        background-color: #f2f2f2;
+                    }
+
+                    td.editable {
+                        cursor: pointer;
+                    }
+
+                    .center {
+                        text-align: center;
+                    }
+
+                    button {
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        padding: 6px 14px;
+                        font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+                        border-radius: 6px;
+                        border: none;
+
+                        color: #fff;
+                        background: linear-gradient(180deg, #4B91F7 0%, #367AF6 100%);
+                        background-origin: border-box;
+                        box-shadow: 0px 0.5px 1.5px rgba(54, 122, 246, 0.25), inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2);
+                        user-select: none;
+                        -webkit-user-select: none;
+                        touch-action: manipulation;
+                        cursor: pointer;
+                    }
+
+                    .row {
+                        display: flex;
+                    }
+                    .col-100 {
+                        width: 100%;
+                    }
+                    .col-75 {
+                        width: 75%;
+                    }
+                    .col-50 {
+                        width: 50%;
+                    }
+                    .col-25 {
+                        width: 25%;
+                    }
+                    .col-10 {
+                        width: 10%;
+                    }
+
+                    .mt-30 {
+                        margin-top: 30px;
+                    }
+                    .mt-20 {
+                        margin-top: 20px;
+                    }
+                    .mt-15 {
+                        margin-top: 15px;
+                    }
+                    .mt12 {
+                        margin-top: px;
+                    }
+
+                    .padding-body {
+                        padding-left: 30px;
+                        padding-right: 30px;
+                    }
+
+                    .content {
+                        padding: 20px;
+                        /* margin-top: 10px; Adjust to accommodate the header height */
+                        /* You can add more styles here for your main content */
+                    }
+                    .content_index{
+                        margin-top: 60px;
+                    }
+                    .content_details {
+                        /* padding: 20px; */
+                        margin-top: 70px; /* Adjust to accommodate the header height */
+                        /* You can add more styles here for your main content */
+                    }
+                    .content_new {
+                        /* padding: 20px; */
+                        /* You can add more styles here for your main content */
+                    }
+
+                    .header {
+                        background-color: #e8e8e8; /* Background color of the header */
+                        color: white; /* Text color of the header */
+                        padding: 10px; /* Adjust padding as needed */
+                        position: fixed; /* Fixed positioning */
+                        top: 0; /* Stick it to the top */
+                        width: 100%; /* Full width */
+                    }
+
+                    .footer {
+                        background-color: #e8e8e8;/* Background color of the footer */
+                        color: rgb(25, 22, 22); /* Text color of the footer */
+                        padding: 10px;  /*Adjust padding as needed */
+                        position: fixed; /* Fixed positioning */
+                        bottom: 0; /* Stick it to the bottom */
+                        width: 100%; /* Full width */
+                        margin-left: 0px !important;
+                    }
+                
+
+
+                    /* for index page css */
+                
+                    .center {
+                        text-align: center;
+                    }
+                    .file_name_margin {
+                        margin-top: -5px;
+                        font-size: 27px;
+                    }
+                    .circle {
+                        width: 40px; /* Adjust the circle size as needed */
+                        height: 40px; /* Same as width to create a circle */
+                        background-color: #007bff; /* Circle background color */
+                        border-radius: 50%; /* Make it a circle */
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                    }
+                    
+                    /* Style the Font Awesome icon inside the circle */
+                    .circle i {
+                        font-size: 24px; /* Adjust the icon size as needed */
+                        color: white; /* Icon color */
+                    }
+
+                    .csv_file_type{
+                        color: blue;
+                        text-decoration: underline;
+                    }
+            </style>
+            <body>
+                <div class="row header">
+                    <div class="col-100">
+                        <div class="center"> <span class="file_name_margin" id="file_name" style="color:black">2.csv</span>
+                            <a href="/2.csv" download="2.csv"><span style="color: black; cursor: pointer;" ><i class="fa fa-download"></i></span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="content_new">
+                    <div class="table-container-details">
+                    <form>
+                        <table>
+                            <thead>
+                            </thead>
+                            <tbody id="tableBody">
+                                <form action="details.html" method="post">
+                                 
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Unit number
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="Unit 18K">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Shares Allocated to Unit
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="455">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Unit Monthly Maintenance Fee
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="$2218.03">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Total # of Buildings
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="1">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Total # of Units
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="268">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Total # of Floors
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="26">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Total # of Shares
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="83557">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Owner-Occupied Units
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="224">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Investor Units
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="42">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Sponsor/Holder Unsold Units
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="2">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Rent-Controlled Unsold Units
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="0">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Co-Op Owned Units
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="0">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Total # of Residential Units
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="268">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Commercial Units
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="3">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    % Commercial Sqft
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="10918">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Please describe the nature of any commercial usage:
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="Ground Floor : Cafe, Office">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Does thr project qualify as a cooperative housing corporation under Section 216 of the Internal Revenue Service(IRS) Code?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="Yes">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Does the co-op have 100% ownership of all amenities and common areas?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="Yes">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Does the co-op allow for year-round occupancy?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="yes">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Timeshare/Fractional/segemented Ownership Real estate developments in which a purchaser can buy the exclusive right to occupy a specified period of time each year.
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="No">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Comman Interest Apartment Project owned by several owners as tenants-in-common(TIC), or by an association where the unit occupants have an undivided interest in the entire building and land, and have an exclusive right to occupy a specific apartment
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="No">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Hotel-Like Amentities Daily short-term rentals, Hotel/Motel/resort amentities, or Mandatory/optional rental pooling agreements
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="No">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Investment Security Unit ownership is characterized and promoted as an investement opportunity, or the property has documents on file with the Security and Exchange Commission(SEC)
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="No">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Does the co-op have an elevator?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="Yes">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Is the co-op subject to a leasehold?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="No">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Is the co-op 100% Complete?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="Yes">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Is the co-op subject to further annexing or additional phasing?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="No">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Year the co-op acquire title:
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="1972">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Year sponsor relinquished control to Board of Directors:
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="1972">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Does any single entity own more than 10% of the units within the project?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="No">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    How many units are deliquent or monthly assesment for 60 days or more?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="0 Units">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Does the co-op project have an underlying mortgage?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="Yes">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Maturity Date
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="11/20/2028">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Lender:
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="People's United Bank">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Note Rate:
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="4.24%">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Is there a flip tax in effect in the co-op project?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="Yes">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Flip Tax amount
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="stamp tax fee of $ 0.05 cents per share">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Which of the followling financial controls are in place to ensure proper management of the co-op's funds? Check all the apply
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="1.The reserve fund is kept separate from the operating amount. 2. The bank in which the fund are deposited to sends monthly statements directly to the Board. 3. The management company maintains separate amount for the co-op that it services and does not have the authority to draw checks or transfer funds from the reserve amount.">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Has the co-op filed a public report/sponsor disclosure amendment?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="No">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Does the co-op have any enviromental condiderations or issue?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="No">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    If a ground lease exists, are there any monetary or ono-monetary defaults under the terms of the lease?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="N/A">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Is the co-op subject to current litigation?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="No">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Does the project's legal documents include any of the followling legal restrictions? Please check all the apply.
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="No legal restrictions">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    What is the expiration date of thr Proprietary Lease or Occupancy Agreement:
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="Sep-00">
+                                </td>
+                                </tr>
+                             
+                            <tr>
+                                <td style="width: 3%;"><i class="fas fa-trash"></i></td>
+                                <td style="width: 47%;">
+                                    Are there any active or pending special assesments in the project?
+                                </td>
+                                <td style="width: 50%;">
+                                    <input type="text" value="Yes">
+                                </td>
+                                </tr>
+                            
+            </tbody>
+        </table>
+        <div class="row">
+            <div class="col-50"></div>
+            <div class="col-50 mt-15">
+                <button type="submit" id="download">save</button>
+            </div>
+        </div>
+        </form>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>File Listing and Viewing</title>
+    <style>
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+        .column {
+            float: left;
+            width: 50%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Files in Directory</h1>
+    
+    <div class="row">
+        <div class="column">
+            <h2>PDF Files</h2>
+            <ul>
+                {% for pdf_file, csv_file in file_pairs %}
+                <li><a href="{{ url_for('view_pdf', pdf_filename=pdf_file) }}">{{ pdf_file }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="column">
+            <h2>CSV Files</h2>
+            <ul>
+                {% for pdf_file, csv_file in file_pairs %}
+                {% if csv_file %}
+                <li><a href="{{ url_for('view_csv', csv_filename=csv_file) }}">{{ csv_file }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for csv_file in csv_file_list %}
+                    <li>
+                        <a href="{{ url_for('convert_to_json', csv_filename=csv_file) }}" target="_blank">
+                            {{ csv_file }}
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

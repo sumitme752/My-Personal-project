@@ -1,0 +1,169 @@
+/* For details page css */
+        /* CSS styles go here */
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        .table-container {
+            max-height: 400px; /* Adjust the maximum height as needed */
+            overflow-y: auto; /* Enable vertical scrolling */
+            margin-top: 15px;
+        }
+        .table-container-details {
+            max-height: 400px; /* Adjust the maximum height as needed */
+            overflow-y: auto; /* Enable vertical scrolling */
+            
+        }
+
+        thead {
+            background-color: #f2f2f2; /* Header background color */
+            position: sticky;
+            top: 0; /* Stick the header to the top */
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: left;
+            cursor: pointer;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        td.editable {
+            cursor: pointer;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        button {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 6px 14px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+            border-radius: 6px;
+            border: none;
+
+            color: #fff;
+            background: linear-gradient(180deg, #4B91F7 0%, #367AF6 100%);
+            background-origin: border-box;
+            box-shadow: 0px 0.5px 1.5px rgba(54, 122, 246, 0.25), inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2);
+            user-select: none;
+            -webkit-user-select: none;
+            touch-action: manipulation;
+            cursor: pointer;
+        }
+
+        .row {
+            display: flex;
+        }
+        .col-100 {
+            width: 100%;
+        }
+        .col-50 {
+            width: 50%;
+        }
+        .col-25 {
+            width: 25%;
+        }
+        .col-10 {
+            width: 10%;
+        }
+
+        .mt-30 {
+            margin-top: 30px;
+        }
+        .mt-20 {
+            margin-top: 20px;
+        }
+        .mt-15 {
+            margin-top: 15px;
+        }
+        .mt12 {
+            margin-top: px;
+        }
+
+        .padding-body {
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+
+        .content {
+            padding: 20px;
+            /* margin-top: 10px; Adjust to accommodate the header height */
+            /* You can add more styles here for your main content */
+        }
+        .content_details {
+            padding: 20px;
+            margin-top: 50px; /* Adjust to accommodate the header height */
+            /* You can add more styles here for your main content */
+        }
+        .content_new {
+            padding: 20px;
+            margin-top: 30px;  /*Adjust to accommodate the header height */
+            /* You can add more styles here for your main content */
+        }
+
+        .header {
+            background-color: #e8e8e8; /* Background color of the header */
+            color: white; /* Text color of the header */
+            padding: 10px; /* Adjust padding as needed */
+            position: fixed; /* Fixed positioning */
+            top: 0; /* Stick it to the top */
+            width: 100%; /* Full width */
+        }
+
+        .footer {
+            background-color: #e8e8e8; /* Background color of the footer */
+            color: rgb(25, 22, 22); /* Text color of the footer */
+            padding: 10px;  /*Adjust padding as needed */
+            position: fixed; /* Fixed positioning */
+            bottom: 0; /* Stick it to the bottom */
+            width: 100%; /* Full width */
+            margin-left: 0px !important;
+        }
+      
+
+
+        /* for index page css */
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 95%;
+            margin: 20px;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+        .center {
+            text-align: center;
+        }
+        .file_name_margin {
+            margin-top: -5px;
+            font-size: 27px;
+        }
