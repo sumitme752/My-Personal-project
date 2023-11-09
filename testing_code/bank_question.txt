@@ -1,0 +1,346 @@
+Lender-Representative
+
+Lender-E-mail
+
+Lender-Phone
+
+Cooperative Legal+ Name
+
+Corporation Taxpayer-ID
+
+Street+ Physical+ Address
+
+Subject Unit+ Number
+
+City
+
+State
+
+Zip
+
+Number Units+ Owner+ Occupied+
+
+Number Units+ Investor+ Owned+
+
+Number Units+ Sponsor+ Owned+
+
+Number Units+ Co-op+ Owned+
+
+Number  Units+ Total
+
+Percentage Units+ Owner+ Occupied+
+
+Percentage Units+ Investor+ Owned+
+
+Percentage Units+ Sponsor+ Owned+
+
+Percentage Units+ Co-op+ Owned+
+
+Percentage Units+ Total
+
+Projects consisting+ 2-4 Units+ {individual | entity} own+ more-than 1 unit+
+
+Projects consisting+ 5-20 units+ {individual | entity} own+ more-than 2 units+
+
+Projects consisting+ more-than 20 units+ {individual | entity} own+ more-than 20% total+ units+
+
+Year-Built
+
+Total+ [Number] Floors+
+
+Number+ Non-Residential Floors+
+
+Proprietary+ Lease Expiration-Date
+Year-Converted
+
+Number+ Elevators+
+
+Percentage Non-Residential Units+
+
+Co-op+ Board impose+ Flip-Tax
+
+foreclosure U.S.+ Bank exempt+ paying+ Flip-Tax
+
+Co-op+ receive+ tax-abatements
+
+Co-op+ situated+ ground-lease
+
+Project+ meet+ IRS-rule-216(B)(1)
+
+Shareholders+ control+ Board
+
+Co-op+ Board execute+ U.S. Bank Recognition+ Agreement+
+
+Board require+ Rider Recognition+ Agreement+
+
+Co-op+ Board limit+ percentage financing+ Borrower+ request+ [If-yes what percentage]
+
+Number+ units+ over+ 60 days more-delinquent monthly-fees [If-none please indicate “0”]
+
+Corporation+ involved+ {litigation | arbitration} including+ project placed+ receivership              bankruptcy {deed-in-lieu-foreclosure | foreclosure} [excluding+ delinquent monthly-dues]
+
+Project+ {mandatory | periodic} membership-fees recreational facilities+
+
+building+ Artist Residence-certificate occupancy+
+
+Board allow+ Shareholder own+ multiple+ unattached units+ one-stock certificate+
+Is-this limited-equity Co-op+
+
+Sponsor {ownership-rights | other-rights} Project+ {real-estate | facilities} other-than {interest | rights} it-may-have relationship+ unsold+ units+
+
+Project+ documents+ include+ any restrictions+ sale limit+ free+ transferability+ title+ [Age Restrictions Low+ moderate-income restrictions Rent+ Stabilized+ minimum maximum sales price]
+
+Board+ [knowledge+] adverse+ environmental-factors affecting+ Corporation {whole | individual} units+
+
+Any {lapse | cancellation | material} change+ insurance-policy maintained+ Corporation
+
+proposed+ action+ requires+ consent+ specified+ percentage share+ loan-holders
+
+failure+ maintain+ compliance cooperative-eligibility under+ IRS-Code Section-216
+
+30-day delinquency Corporation+ payments+ under+ blanket-mortgage [real-estate taxes assessments and charges] imposed-by {government | public utility}
+
+Board aware+  current+ failed+ {local | county | state} {inspections | recertifications}
+
+{pending | current} special assessments+ [If-yes describe+ purpose assessments+]
+
+Beginning Assessment-Date
+
+Ending Assessment-Date
+
+regularly scheduled {maintenance | repairs} {delayed | deferred}
+
+utilities+ paid+ Corporation benefit+ Shareholders+ [If-yes please check amenities proved below]
+
+Lien-Holder
+
+Mortgage-Balance
+
+Maturity-Date
+
+Monthly-Payment
+ 
+Interest-Rate
+
+Rate-Type
+
+Balloon-Mortgage
+
+underlying-mortgages current [If-no number+ months delinquent+]
+
+underlying-mortgages current+  past+ 12 months
+
+Project+ line credit+
+
+underlying-mortgages {modified | extended} last financial-statement
+
+"Separate+ bank-accounts maintained+ working+ reserve+ accounts each+ appropriate+ access+
+controls+ bank funds+ deposited+ sends copies monthly-bank-statements directly+ Co-op+ Board+
+
+management [company+] maintains+ separate-records bank-accounts each+ {HOA | Co-op Corporation} uses+ [services] management company does-not authority+ {draw-checks | transfer-funds} reserve account Co-op Corporation
+
+Two-members Board  Directors must-sign checks [written] reserve account
+
+Number+ Shares Held
+
+Sponsor current  maintenance+ last+ 12-months
+
+Numbers+ Shareholder units+ more-than 30-days delinquent+ payment+ monthly-maintenance [If-none please indicate "0"]
+
+Sponsor units+ used+ collateral+ loan+
+
+loan+ used+ {whole | part} acquire+ Co-op Project+
+
+loan-current
+
+Last+ accepted amendment-number
+
+Date accepted+ NY Attorney-General
+
+Monthly-rental income+  all unsold+ units+
+
+Monthly maintenance-charges all unsold+ units+
+
+Name Cooperative-Corporation [appears stock certificate+ membership agreement+]
+
+Property-Address [list+ addresses applicable]
+
+City
+
+State
+
+Zip Code
+
+Corporation's Tax-identification-number [TIN]
+
+Number+ floors+
+
+Is-there elevator [Year-Built]
+
+project conversion+ project converted+ during past+ three-years [Please] enter+ year
+
+units+ delinquent+ more-than 30-days maintenance+ fees+
+
+Number+ units+ 60-days late+
+
+cooperative-part master association+  [If-yes name master association]
+
+commercial+ units+ cooperative+ project
+
+Number+ units+
+
+total+ commercial space+ percentage total+ square-footage project
+
+building+ considered+ Cond-op [co-op owning+  residential+ unit Condo]
+
+Date-control  Cooperative-board turned+ over+ shareholders
+
+Proprietary+ lease {expiration-date | terms} occupancy+ agreement+
+
+Cooperative impose+ flip-tax
+
+project meet+ IRS rule-216
+
+Is-there ground-lease [if-yes please state expiration-date  PLEASE ATTACH]
+
+co-op {30 | more-days} delinquent+ past+ 12-months payments+ due+ under+ ground-lease [if-yes please explain]
+
+project located+ continuous+ parcel land+
+
+cooperative project any hotel+ [like] features+ [on-site check-in cleaning-services etc...]
+
+co-op part assisted+ living-community providing+ {meals | medical-care}
+
+maintenance+ fees+ [being] collected all+ units+ 
+
+Indicate+ date {began | scheduled} begin
+
+coop receive+ income-sources other-than  shareholder's maintenance+ 
+
+source percentage budget-income
+
+Total+ Number Units+ building+ 
+
+Total+ shares issued outstanding+
+
+Total+ sponsor held+  shares
+
+Number Owner+ Occupied+ Units+
+
+Number Investor+ Owned+ Units+ [NOT sponsor]
+
+Total+ number second+ home+
+
+Coop Owned+ Units+
+
+Number Sponsor+ owned+ units+
+
+Number vacant+ [sponsor units]
+
+Number  sponsor+ held+ rent+ regulated-units
+
+Number  sponsor+ held+ market-rent
+
+any+ {single-entity or individual} including {sponsor | developer | other+ owners unsold shares} own+ coop-shares represent+ more-than 20% total+ units+ project
+
+indicate+ number+ units+ each+ single-entity owns+ percentage shares [add addendum needed+]
+
+shareholders sole ownership+ exclusive+ right-to-use  project common-elements amenities+ not+ [subject] lease between cooperative [other+] outside-entities?"
+
+Cooperative-Corporation execute+ Aztec-Recognition-Agreement
+
+rider-required [please attach copy]
+
+Cooperative-Corporation limit+ % financing+ [If-yes percentage limited-to]
+
+Cooperative-Corp. {plaintiff | defendant} [any+] litigation+ [other+] proceedings+ [if-yes please describe]
+
+Lien-Holder First-Mortgage
+
+Mortgage Balance+ First-Mortgage
+
+Maturity-Date First-Mortgage
+
+Monthly-Payment First-Mortgage
+
+Interest-Rate First-Mortgage
+
+Balloon-Mortgage [If-yes please state+ maturity-date]
+
+Fixed-Rate Mortgage
+
+Project Line-of-Credit [If-yes state+ maximum+ line-amount $]
+
+underlying-mortgage real-estate tax current+
+
+mortgage {modified | extended} since+ last financial-statement [if-yes please describe+]
+
+corporation {30-days | more-delinquent taxes | any financial-obligations} last+ 12-months [including underlying-mortgage If-yes please describe+]
+
+underlying-mortgage expires+ less-than 2-years Corporation {process | intentions} refinancing+ current-Mortgage [if-no please describe+]
+
+co-op recipient {subsidies | other+ similar-benefits} such-as abatements
+
+Name {Sponsor | Holder}
+
+Is the {sponsor | developer} responsible+ maintenance-fees unsold-units co-op's financial obligations+ [attributed+] unsold-units [if-yes date-fees began+]
+
+Sponsor current maintenance+ last+ 12-months [if-no please explain+]
+
+Sponsor units+ used-as collateral+ loan
+
+Last+ Amendment-number Attorney-General
+
+Date accepted+ Attorney-General
+
+Rental-Income unsold+ units+
+
+Maintenance-charges all+ unsold+ units+
+
+If sales/marketing programs are in place for the project, do they comply with applicable laws?
+Please provide the contact information for the insurance agent on the master policy.
+Is there a professional management company? (please name)
+What is the term of the agreement?
+Can Co-Op Board cancel the agreement without penalty? (if  no please explain)
+Is the project subject to additional phasing or annexation?
+Is the project complete? (new construction/conversion)
+"Are the project's common elements or recreation
+facilities leased by or to the co-op in any agreements with an
+outside entity? if yes provide agreement."
+"Separate bank accounts are maintained for the working 
+account and reserve account, each with appropriate access 
+controls and the bank in which the funds are 
+deposited sends copies of the monthly bank statements 
+directly to the co-op corporation"
+"The management company maintains separate records and 
+bank accounts for each co-op corporation that uses its 
+services and the management company does not have the 
+authority to draw checks on, or transfer funds from the co op’s reserve account."
+"Two members of the Board of Directors must sign any 
+checks written on the reserve account."
+"Is project considered HDFC/affordable type of
+cooperative?"
+"Does the affordable resale restrictions impair the mortgagee the right to cure a default under the mortgage terms, to foreclose on the mortgage or to otherwise protect the mortgagee's interests under the mortgage?
+"
+"When was the last building inspection by a licensed
+architect, licensed engineer or any other building inspector?"
+"Did the last inspection have any findings related to the
+safety, soundness, structural integrity or habitability of the
+project's building(s)?"
+"Is the cooperative corporation aware of any deficiencies 
+related to the safety, soundness, structural integrity or 
+habitability of the project's buildings(s)?"
+" Are there any outstanding violations of jurisdictional requirements (zoning ordinances, codes, etc) related to the safety, soundness, structural integrity or habitability of the project's building(s)?
+"
+ Is it anticipated the project will, in the future have such violation(s)?
+Does the cooperative have a funding plan for its deferred maintenance components/items to be repaired or replaced?
+ Does the project have a schedule for deferred maintenance components/items to be repaired /replaced?
+Has the cooperative had a reserve study completed on the project within the past 3 years?
+What is the total of the current reserve account balances?
+"Are there any current special assessments unit owners
+are obligated to pay?"
+What is the total amount of special assessment(s)?
+Please specify the terms of the special assessment(s)
+Please state the purpose of the special assessment(s)
+Are there any planned special assessments that unit owners will be obligated to pay? 
+Has teh cooperative obtained any loans to finance improvements or deferred maintenance?

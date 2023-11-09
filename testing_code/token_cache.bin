@@ -1,0 +1,23 @@
+{
+    "AccessToken": {
+        "-login.microsoftonline.com-accesstoken-8433780e-598f-4f92-8d31-80391ff86891-39c7f15b-5f6f-4bab-8ab5-0b6e414bdd83-https://graph.microsoft.com/.default": {
+            "credential_type": "AccessToken",
+            "secret": "eyJ0eXAiOiJKV1QiLCJub25jZSI6Im5tdEN2dWJxTmdxSEZCeG5IbEtlV2VWRDhGc0V2UFV2dVhfbGl1cWRMdkkiLCJhbGciOiJSUzI1NiIsIng1dCI6IjlHbW55RlBraGMzaE91UjIybXZTdmduTG83WSIsImtpZCI6IjlHbW55RlBraGMzaE91UjIybXZTdmduTG83WSJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC8zOWM3ZjE1Yi01ZjZmLTRiYWItOGFiNS0wYjZlNDE0YmRkODMvIiwiaWF0IjoxNjk4NzYyOTU4LCJuYmYiOjE2OTg3NjI5NTgsImV4cCI6MTY5ODc2Njg1OCwiYWlvIjoiRTJGZ1lHQmM2ckdHWDNycGRkKzRUNXVDbjM0N0FBQT0iLCJhcHBfZGlzcGxheW5hbWUiOiJhaS10ZWFtIiwiYXBwaWQiOiI4NDMzNzgwZS01OThmLTRmOTItOGQzMS04MDM5MWZmODY4OTEiLCJhcHBpZGFjciI6IjEiLCJpZHAiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC8zOWM3ZjE1Yi01ZjZmLTRiYWItOGFiNS0wYjZlNDE0YmRkODMvIiwiaWR0eXAiOiJhcHAiLCJvaWQiOiJjZDMzZGM3YS0xMzkyLTQxYjMtYTA1My03Njk2NDYxNGQyODkiLCJyaCI6IjAuQVNzQVdfSEhPVzlmcTB1S3RRdHVRVXZkZ3dNQUFBQUFBQUFBd0FBQUFBQUFBQURDQUFBLiIsInJvbGVzIjpbIlNpdGVzLlNlbGVjdGVkIiwiU2l0ZXMuUmVhZFdyaXRlLkFsbCIsIkZpbGVzLlJlYWRXcml0ZS5BbGwiLCJCcm93c2VyU2l0ZUxpc3RzLlJlYWRXcml0ZS5BbGwiLCJGaWxlcy5SZWFkLkFsbCIsIlNpdGVzLkZ1bGxDb250cm9sLkFsbCJdLCJzdWIiOiJjZDMzZGM3YS0xMzkyLTQxYjMtYTA1My03Njk2NDYxNGQyODkiLCJ0ZW5hbnRfcmVnaW9uX3Njb3BlIjoiQVMiLCJ0aWQiOiIzOWM3ZjE1Yi01ZjZmLTRiYWItOGFiNS0wYjZlNDE0YmRkODMiLCJ1dGkiOiJqN25DYlRFVUJrdWtDRnJJXzlrZkFBIiwidmVyIjoiMS4wIiwid2lkcyI6WyIwOTk3YTFkMC0wZDFkLTRhY2ItYjQwOC1kNWNhNzMxMjFlOTAiXSwieG1zX3RjZHQiOjE2OTQ2ODM1Nzd9.gqbKZ-vu6GlbAMlhni_5LypjEl154U8RUabSIuBY8twekxeGpLDrqpD-od0P8EAu0r_-4S-fx9v42c13hXmEGLV732ibLOitukL8KYGnyvodkXtJGLWGcIsT8JyNbum2IbjS9nZUb6FX5dsMs3U5eluZd8gGXER6bC0wIFyY2J74xappF9Pc0kx-oHylHl8QsjEaGnZFcCPj4WqsTWAPq-zhNpqu4DkExPzcbGC95Za4Y60CvD3y6JZyncx1mMu14e0Ngys9necCsxyNpcJMb6-5jvsD4uX5-vVquaKFljSBrus7ChkEQB_N7ce7qFI82eLpz-LFR6-AWHo5o-8XMw",
+            "home_account_id": null,
+            "environment": "login.microsoftonline.com",
+            "client_id": "8433780e-598f-4f92-8d31-80391ff86891",
+            "target": "https://graph.microsoft.com/.default",
+            "realm": "39c7f15b-5f6f-4bab-8ab5-0b6e414bdd83",
+            "token_type": "Bearer",
+            "cached_at": "1698763258",
+            "expires_on": "1698766857",
+            "extended_expires_on": "1698766857"
+        }
+    },
+    "AppMetadata": {
+        "appmetadata-login.microsoftonline.com-8433780e-598f-4f92-8d31-80391ff86891": {
+            "client_id": "8433780e-598f-4f92-8d31-80391ff86891",
+            "environment": "login.microsoftonline.com"
+        }
+    }
+}

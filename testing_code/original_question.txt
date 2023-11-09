@@ -1,0 +1,127 @@
+Question
+Lender Representative:
+Lender E-mail:
+Lender Phone:
+Cooperative Legal Name:
+Corporation Taxpayer ID:
+Street or Physical Address:
+Subject Unit Number
+City:
+State
+Zip:
+Number of Units Owner Occupied
+Number of Units Investor Owned
+Number of Units Sponsor Owned
+Number of Units Co-op Owned
+Number of Units Total
+Percentage of Units Owner Occupied
+Percentage of Units Investor Owned
+Percentage of Units Sponsor Owned
+Percentage of Units Co-op Owned
+Percentage of Units Total
+Projects consisting of 2-4 Units - Does any individual or entity own more than 1 unit?
+Projects consisting of 5-20 units - Does any individual or entity own more than 2 units?
+Projects consisting of more than 20 units? Does any individual or entity own more than 20% of the total units?
+Year Built
+Total Number of Floors
+Number of Non-Residential Floors
+Proprietary Lease Expiration Date
+Year Converted
+Number of Elevators
+Percentage of Non-Residential Units
+Does the Co-op Board impose a Flip Tax?
+In a foreclosure, is U.S. Bank exempt from paying the Flip Tax?
+Does the Co-op receive any tax abatements?
+Is the Co-op situated on a ground lease?
+Does the Project meet IRS rule 216(B)(1)?
+Do the Shareholders control the Board?
+Will the Co-op Board execute the U.S. Bank Recognition Agreement?
+Does the Board require a Rider to the Recognition Agreement?
+Does the Co-op Board limit the percentage of financing the Borrower may request? If yes, what is the percentage?
+Number of units over 60 days or more delinquent on monthly fees. If none, please indicate "0"
+Is the Corporation involved in any litigation and/or arbitration including the project being placed in receivership, bankruptcy, deed-in-lieu of foreclosure or foreclosure (excluding delinquent monthly dues)?
+Does the Project have any mandatory or periodic membership fees for recreational facilities?
+Does the building have an Artist in Residence certificate of occupancy?
+Does the Board allow a Shareholder to own multiple unattached units on one stock certificate?
+Is this a limited equity Co-op?
+Does the Sponsor have ownership rights or other rights in the Project's real estate or facilities other than the interest or rights it may have in, or in relationship to unsold units?
+Do the Project documents include any restrictions on sale which would limit the free transferability of title? (i.e. Age Restrictions, Low moderate-income restrictions, Rent Stabilized, minimum, or maximum sales price)
+Does the Board have any knowledge of any adverse environmental factors affecting the Corporation as a whole or as individual units?
+Any lapse, cancellation or material change of any insurance policy maintained by the Corporation
+Any proposed action that requires the consent of a specified percentage of share loan holders
+Any failure to maintain compliance with cooperative eligibility under IRS Code Section 216
+Any 30-day delinquency by the Corporation in payments under any blanket mortgage for real estate, taxes, assessments and charges imposed by the government or public utility
+Is the Board aware of any current failed local/county/state inspections or recertifications?
+Are there any pending or current special assessments? If yes, describe the purpose of the assessments:
+Beginning Assessment Date:
+Ending Assessment Date:
+Are there any regularly scheduled maintenance or repairs that have been delayed or deferred?
+Are any of the following utilities paid by for Corporation for the benefit of the Shareholders? If yes, please check amenities proved below:
+Lien Holder
+Mortgage Balance
+Maturity Date
+Monthly Payment 
+Interest Rate
+Rate Type
+Balloon Mortgage
+Are all underlying mortgages current? If no, number of months delinquent:
+Have all underlying mortgages been current for the past 12 months?
+Does the Project have a line of credit?
+Have all underlying mortgages been modified/extended since the last financial statement?
+"Separate bank accounts are maintained for the working and reserve accounts, each with appropriate access
+controls and the bank in which the funds are deposited sends copies of the monthly bank statements directly to
+the Co-op Board."
+"The management company maintains separate records and bank accounts for each HOA or Co-op Corporation 
+that uses it services and the management company does not have the authority to draw checks on or transfer 
+funds from the reserve account of this Co-op Corporation."
+Two members of the Board of Directors must sign any checks written on the reserve account
+Number of Shares Held
+Has the Sponsor been current on the maintenance for the last 12 months?
+Number of Shareholder units more than 30 days delinquent on the payment of their monthly maintenance. If none, please indicate "0"
+Are the Sponsor units used as collateral for a loan?
+Was the loan used in whole or in part to acquire the Co-op Project?
+Is the loan current?
+Last accepted amendment numbe
+Date accepted by the NY Attorney General
+Monthly rental income on all unsold units
+Monthly maintenance charges on all unsold units
+Name of Cooperative Corporation (as it appears on stock certificate/membership agreement):
+Property Address: (list all addresses applicable)
+City
+State
+Zip Code
+Corporation's Tax identification number (TIN)  
+Number of floors:
+Is there an elevator?  Year Built:
+If project is a conversion, was the project converted during the past three years? Please enter year
+How many units are delinquent more than 30 days on their maintenance fees?
+Number of units 60 days late
+Is the cooperative part of a master association?  If yes, what is the name of the master association?
+Are there any commercial units in the cooperative project? 
+Number of units 
+What is the total commercial space percentage  of the total square footage of the project?
+ Is the building considered a Cond-op? (co-op owning the residential unit in the Condo)
+Date control of Cooperative board was turned over to shareholders
+Proprietary lease expiration date or terms of occupancy agreement
+Does the Cooperative impose a flip tax?         
+Does the project meet IRS rule 216?
+Is there a ground lease? (if yes, please state expiration date and PLEASE ATTACH)
+Has the co-op been 30 or more days delinquent in the past 12 months on any payments due under the ground lease?    if yes, please explain.
+Is the project located on a continuous parcel of land
+Does the cooperative project have any hotel like features? (on-site check in, cleaning services etc...)
+Is any part of the co-op part of an assisted living community providing meals or medical care?
+Are maintenance fees being collected from all units? 
+Indicate the date they began or are scheduled to begin:
+Does the coop receive income from sources other than the shareholder's maintenance?.     
+the source and percentage of budget income.
+Total Number of Units in building:  
+Total shares issued & outstanding
+Total sponsor held  shares
+Number or Owner Occupied Units
+Number of Investor Owned Units (NOT sponsor)
+Total # of second home
+Coop Owned Units
+Number Sponsor owned units:
+Number vacant(sponsor units)
+Number of sponsor held rent regulated units
+Number of sponsor held at  market rent

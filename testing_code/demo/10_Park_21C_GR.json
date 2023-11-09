@@ -1,0 +1,6452 @@
+[
+    [
+        {
+            "content": "guaranteed Rate",
+            "boundingBox": [
+                72.0,
+                115.0,
+                552.0,
+                105.0,
+                554.0,
+                175.0,
+                72.0,
+                184.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 72.0,
+                "length": 15
+            }
+        },
+        {
+            "content": "TM",
+            "boundingBox": [
+                551.0,
+                156.0,
+                599.0,
+                158.0,
+                599.0,
+                190.0,
+                551.0,
+                189.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 551.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "COOPERATIVE PROJECT QUESTIONNAIRE",
+            "boundingBox": [
+                668.0,
+                131.0,
+                2243.0,
+                132.0,
+                2242.0,
+                207.0,
+                668.0,
+                205.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 668.0,
+                "length": 33
+            }
+        },
+        {
+            "content": "COMPANIES",
+            "boundingBox": [
+                105.0,
+                183.0,
+                375.0,
+                182.0,
+                375.0,
+                229.0,
+                105.0,
+                231.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 105.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "Borrower Name:",
+            "boundingBox": [
+                70.0,
+                292.0,
+                333.0,
+                294.0,
+                332.0,
+                332.0,
+                70.0,
+                330.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 70.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "Loan #:",
+            "boundingBox": [
+                1426.0,
+                295.0,
+                1542.0,
+                293.0,
+                1543.0,
+                328.0,
+                1427.0,
+                329.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1426.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "Unit #: 21C",
+            "boundingBox": [
+                2066.0,
+                290.0,
+                2247.0,
+                285.0,
+                2248.0,
+                327.0,
+                2067.0,
+                330.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2066.0,
+                "length": 11
+            }
+        },
+        {
+            "content": "Total Shares Issued/Outstanding: 83,557",
+            "boundingBox": [
+                70.0,
+                347.0,
+                741.0,
+                345.0,
+                741.0,
+                393.0,
+                70.0,
+                395.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 70.0,
+                "length": 39
+            }
+        },
+        {
+            "content": "Unit Shares: 246",
+            "boundingBox": [
+                971.0,
+                350.0,
+                1243.0,
+                347.0,
+                1244.0,
+                389.0,
+                971.0,
+                392.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 971.0,
+                "length": 16
+            }
+        },
+        {
+            "content": "# of Bedrooms:",
+            "boundingBox": [
+                1462.0,
+                353.0,
+                1715.0,
+                354.0,
+                1715.0,
+                391.0,
+                1462.0,
+                390.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1462.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "Square Footage:",
+            "boundingBox": [
+                1949.0,
+                355.0,
+                2216.0,
+                355.0,
+                2216.0,
+                394.0,
+                1949.0,
+                393.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1949.0,
+                "length": 15
+            }
+        },
+        {
+            "content": "Units Maintenance: $1,259.16",
+            "boundingBox": [
+                72.0,
+                411.0,
+                569.0,
+                411.0,
+                569.0,
+                456.0,
+                72.0,
+                455.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 72.0,
+                "length": 28
+            }
+        },
+        {
+            "content": "Does maintenance include electricity/cable/heat/air conditioning etc .?",
+            "boundingBox": [
+                896.0,
+                413.0,
+                2024.0,
+                414.0,
+                2024.0,
+                454.0,
+                896.0,
+                451.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 896.0,
+                "length": 71
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                2112.0,
+                415.0,
+                2180.0,
+                416.0,
+                2180.0,
+                451.0,
+                2112.0,
+                451.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2112.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "NO",
+            "boundingBox": [
+                2221.0,
+                407.0,
+                2346.0,
+                413.0,
+                2347.0,
+                457.0,
+                2217.0,
+                455.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2221.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "Cooperative Corporation Name (as on stock certificate): TEN PARK AVENUE TENANTS CORP",
+            "boundingBox": [
+                75.0,
+                474.0,
+                1562.0,
+                466.0,
+                1562.0,
+                510.0,
+                75.0,
+                516.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 75.0,
+                "length": 84
+            }
+        },
+        {
+            "content": "Property Address: 10 PARK AVENUE",
+            "boundingBox": [
+                69.0,
+                535.0,
+                674.0,
+                530.0,
+                675.0,
+                571.0,
+                69.0,
+                577.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 69.0,
+                "length": 32
+            }
+        },
+        {
+            "content": "State of Incorporation: NY",
+            "boundingBox": [
+                1699.0,
+                533.0,
+                2132.0,
+                531.0,
+                2133.0,
+                572.0,
+                1699.0,
+                574.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1699.0,
+                "length": 26
+            }
+        },
+        {
+            "content": "City: NEW YORK",
+            "boundingBox": [
+                71.0,
+                592.0,
+                358.0,
+                592.0,
+                358.0,
+                639.0,
+                71.0,
+                640.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 71.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "State: NY",
+            "boundingBox": [
+                804.0,
+                595.0,
+                966.0,
+                596.0,
+                966.0,
+                635.0,
+                804.0,
+                633.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 804.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "Zip Code: 10016",
+            "boundingBox": [
+                1385.0,
+                592.0,
+                1665.0,
+                593.0,
+                1665.0,
+                638.0,
+                1385.0,
+                634.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1385.0,
+                "length": 15
+            }
+        },
+        {
+            "content": "Co-op Tax ID: 13-2778561",
+            "boundingBox": [
+                1765.0,
+                593.0,
+                2203.0,
+                593.0,
+                2203.0,
+                637.0,
+                1765.0,
+                636.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1765.0,
+                "length": 24
+            }
+        },
+        {
+            "content": "Year Built: 1932",
+            "boundingBox": [
+                72.0,
+                655.0,
+                337.0,
+                656.0,
+                337.0,
+                697.0,
+                72.0,
+                695.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 72.0,
+                "length": 16
+            }
+        },
+        {
+            "content": "Year Converted: 1972",
+            "boundingBox": [
+                516.0,
+                655.0,
+                878.0,
+                658.0,
+                877.0,
+                698.0,
+                516.0,
+                694.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 516.0,
+                "length": 20
+            }
+        },
+        {
+            "content": "Total # of floors: 26",
+            "boundingBox": [
+                1065.0,
+                656.0,
+                1388.0,
+                656.0,
+                1387.0,
+                698.0,
+                1065.0,
+                696.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1065.0,
+                "length": 21
+            }
+        },
+        {
+            "content": "#of Elevators: 4",
+            "boundingBox": [
+                1577.0,
+                656.0,
+                1835.0,
+                659.0,
+                1834.0,
+                700.0,
+                1577.0,
+                693.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1577.0,
+                "length": 16
+            }
+        },
+        {
+            "content": "UNIT BREAKDOWN",
+            "boundingBox": [
+                262.0,
+                722.0,
+                595.0,
+                720.0,
+                595.0,
+                761.0,
+                262.0,
+                762.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 262.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "# OF UNITS",
+            "boundingBox": [
+                787.0,
+                720.0,
+                984.0,
+                720.0,
+                984.0,
+                762.0,
+                787.0,
+                761.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 787.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "% OF UNITS",
+            "boundingBox": [
+                1013.0,
+                721.0,
+                1224.0,
+                722.0,
+                1224.0,
+                761.0,
+                1013.0,
+                759.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1013.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "UNIT BREAKDOWN",
+            "boundingBox": [
+                1461.0,
+                722.0,
+                1787.0,
+                722.0,
+                1787.0,
+                760.0,
+                1461.0,
+                760.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1461.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "# OF UNITS",
+            "boundingBox": [
+                1976.0,
+                721.0,
+                2174.0,
+                723.0,
+                2173.0,
+                760.0,
+                1976.0,
+                757.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1976.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "% OF UNITS",
+            "boundingBox": [
+                2208.0,
+                720.0,
+                2420.0,
+                724.0,
+                2419.0,
+                763.0,
+                2208.0,
+                759.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2208.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "Owner Occupied",
+            "boundingBox": [
+                127.0,
+                771.0,
+                396.0,
+                772.0,
+                396.0,
+                810.0,
+                127.0,
+                808.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 127.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "224",
+            "boundingBox": [
+                781.0,
+                765.0,
+                851.0,
+                767.0,
+                848.0,
+                811.0,
+                778.0,
+                809.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 781.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "Sponsor - Regulated Rent",
+            "boundingBox": [
+                1321.0,
+                771.0,
+                1730.0,
+                770.0,
+                1730.0,
+                809.0,
+                1321.0,
+                810.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1321.0,
+                "length": 24
+            }
+        },
+        {
+            "content": "0",
+            "boundingBox": [
+                1968.0,
+                774.0,
+                1987.0,
+                774.0,
+                1987.0,
+                806.0,
+                1968.0,
+                807.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1968.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "Investor/Sublet",
+            "boundingBox": [
+                129.0,
+                829.0,
+                374.0,
+                828.0,
+                375.0,
+                867.0,
+                129.0,
+                868.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 129.0,
+                "length": 15
+            }
+        },
+        {
+            "content": "42",
+            "boundingBox": [
+                779.0,
+                823.0,
+                823.0,
+                822.0,
+                821.0,
+                863.0,
+                777.0,
+                865.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 779.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "Single Entity Owned",
+            "boundingBox": [
+                1317.0,
+                826.0,
+                1647.0,
+                825.0,
+                1648.0,
+                867.0,
+                1317.0,
+                868.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1317.0,
+                "length": 19
+            }
+        },
+        {
+            "content": "0",
+            "boundingBox": [
+                1968.0,
+                830.0,
+                1987.0,
+                828.0,
+                1988.0,
+                862.0,
+                1968.0,
+                863.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1968.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "Sponsor - Vacant",
+            "boundingBox": [
+                121.0,
+                884.0,
+                410.0,
+                885.0,
+                409.0,
+                923.0,
+                121.0,
+                922.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 121.0,
+                "length": 16
+            }
+        },
+        {
+            "content": "0",
+            "boundingBox": [
+                780.0,
+                885.0,
+                804.0,
+                881.0,
+                801.0,
+                925.0,
+                778.0,
+                928.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 780.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "Co -op Owned",
+            "boundingBox": [
+                1309.0,
+                881.0,
+                1555.0,
+                881.0,
+                1555.0,
+                923.0,
+                1309.0,
+                923.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1309.0,
+                "length": 12
+            }
+        },
+        {
+            "content": "0",
+            "boundingBox": [
+                1965.0,
+                886.0,
+                1988.0,
+                884.0,
+                1988.0,
+                917.0,
+                1964.0,
+                918.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1965.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "Sponsor - Market Rent",
+            "boundingBox": [
+                122.0,
+                942.0,
+                489.0,
+                942.0,
+                489.0,
+                977.0,
+                122.0,
+                978.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 122.0,
+                "length": 21
+            }
+        },
+        {
+            "content": "2",
+            "boundingBox": [
+                774.0,
+                939.0,
+                809.0,
+                938.0,
+                804.0,
+                980.0,
+                771.0,
+                981.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 774.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "Total Units in Project",
+            "boundingBox": [
+                1318.0,
+                940.0,
+                1652.0,
+                939.0,
+                1653.0,
+                976.0,
+                1318.0,
+                977.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1318.0,
+                "length": 22
+            }
+        },
+        {
+            "content": "268",
+            "boundingBox": [
+                1963.0,
+                936.0,
+                2033.0,
+                936.0,
+                2033.0,
+                974.0,
+                1965.0,
+                974.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1963.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "1. Have more than 50% of the stock/shares been sold and conveyed to Principal Resident Purchasers?",
+            "boundingBox": [
+                105.0,
+                1015.0,
+                1741.0,
+                1014.0,
+                1741.0,
+                1054.0,
+                105.0,
+                1054.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 105.0,
+                "length": 98
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                1751.0,
+                1003.0,
+                1877.0,
+                1009.0,
+                1878.0,
+                1051.0,
+                1751.0,
+                1050.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1751.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1993.0,
+                1006.0,
+                2047.0,
+                1008.0,
+                2047.0,
+                1052.0,
+                1993.0,
+                1048.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1993.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "Does any Single Entity excluding the Sponsor hold more than 20% of the Units in the Corp?",
+            "boundingBox": [
+                167.0,
+                1072.0,
+                1610.0,
+                1070.0,
+                1610.0,
+                1111.0,
+                167.0,
+                1112.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 167.0,
+                "length": 89
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                1691.0,
+                1077.0,
+                1744.0,
+                1078.0,
+                1744.0,
+                1105.0,
+                1691.0,
+                1104.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1691.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1820.0,
+                1080.0,
+                1917.0,
+                1077.0,
+                1918.0,
+                1109.0,
+                1821.0,
+                1118.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1820.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "If Yes, #:",
+            "boundingBox": [
+                1973.0,
+                1072.0,
+                2109.0,
+                1076.0,
+                2108.0,
+                1111.0,
+                1973.0,
+                1107.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1973.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "2. No. of commercial units: 3",
+            "boundingBox": [
+                101.0,
+                1131.0,
+                586.0,
+                1132.0,
+                586.0,
+                1175.0,
+                101.0,
+                1174.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 101.0,
+                "length": 29
+            }
+        },
+        {
+            "content": "Percentage of project that is commercial space: 5%",
+            "boundingBox": [
+                763.0,
+                1135.0,
+                1597.0,
+                1135.0,
+                1597.0,
+                1178.0,
+                763.0,
+                1177.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 763.0,
+                "length": 50
+            }
+        },
+        {
+            "content": "3. Project subject to a Ground Lease?",
+            "boundingBox": [
+                104.0,
+                1196.0,
+                719.0,
+                1197.0,
+                718.0,
+                1239.0,
+                104.0,
+                1238.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 104.0,
+                "length": 37
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                797.0,
+                1203.0,
+                857.0,
+                1204.0,
+                857.0,
+                1235.0,
+                797.0,
+                1235.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 797.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "| No",
+            "boundingBox": [
+                962.0,
+                1205.0,
+                1020.0,
+                1208.0,
+                1020.0,
+                1235.0,
+                963.0,
+                1233.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 962.0,
+                "length": 4
+            }
+        },
+        {
+            "content": "Expiration Date:",
+            "boundingBox": [
+                1183.0,
+                1200.0,
+                1444.0,
+                1200.0,
+                1443.0,
+                1237.0,
+                1183.0,
+                1235.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1183.0,
+                "length": 16
+            }
+        },
+        {
+            "content": "Annual Rent $:",
+            "boundingBox": [
+                1869.0,
+                1200.0,
+                2106.0,
+                1199.0,
+                2106.0,
+                1236.0,
+                1869.0,
+                1237.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1869.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "4. Any Tax Abatements?",
+            "boundingBox": [
+                104.0,
+                1261.0,
+                515.0,
+                1261.0,
+                515.0,
+                1304.0,
+                104.0,
+                1305.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 104.0,
+                "length": 22
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                596.0,
+                1267.0,
+                660.0,
+                1269.0,
+                659.0,
+                1301.0,
+                595.0,
+                1299.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 596.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                753.0,
+                1266.0,
+                813.0,
+                1269.0,
+                813.0,
+                1299.0,
+                754.0,
+                1297.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 753.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "J51",
+            "boundingBox": [
+                929.0,
+                1263.0,
+                988.0,
+                1264.0,
+                985.0,
+                1302.0,
+                927.0,
+                1301.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 929.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "421A",
+            "boundingBox": [
+                1100.0,
+                1262.0,
+                1192.0,
+                1263.0,
+                1193.0,
+                1296.0,
+                1102.0,
+                1295.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1100.0,
+                "length": 4
+            }
+        },
+        {
+            "content": "Expiration Date:",
+            "boundingBox": [
+                1244.0,
+                1265.0,
+                1512.0,
+                1265.0,
+                1512.0,
+                1302.0,
+                1244.0,
+                1301.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1244.0,
+                "length": 16
+            }
+        },
+        {
+            "content": "Total Abatement $:",
+            "boundingBox": [
+                1898.0,
+                1264.0,
+                2208.0,
+                1265.0,
+                2208.0,
+                1303.0,
+                1898.0,
+                1301.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1898.0,
+                "length": 18
+            }
+        },
+        {
+            "content": "5. Is project subject to any Assessments? Yes",
+            "boundingBox": [
+                105.0,
+                1328.0,
+                917.0,
+                1328.0,
+                917.0,
+                1369.0,
+                105.0,
+                1369.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 105.0,
+                "length": 45
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1034.0,
+                1332.0,
+                1081.0,
+                1333.0,
+                1079.0,
+                1366.0,
+                1033.0,
+                1363.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1034.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "Amount/Duration/Covering: $36.79 (FOR UNIT) / ENDS 12/2023",
+            "boundingBox": [
+                1138.0,
+                1325.0,
+                2229.0,
+                1325.0,
+                2229.0,
+                1374.0,
+                1138.0,
+                1373.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1138.0,
+                "length": 58
+            }
+        },
+        {
+            "content": "6. Is the project: Co-op",
+            "boundingBox": [
+                104.0,
+                1390.0,
+                578.0,
+                1390.0,
+                578.0,
+                1434.0,
+                104.0,
+                1434.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 104.0,
+                "length": 24
+            }
+        },
+        {
+            "content": "Cond-op (If Cond-op, provide Condo By Laws and Financials)",
+            "boundingBox": [
+                720.0,
+                1390.0,
+                1608.0,
+                1393.0,
+                1608.0,
+                1436.0,
+                720.0,
+                1434.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 720.0,
+                "length": 58
+            }
+        },
+        {
+            "content": "7. Are there any Resale Restrictions (income limits, age limits, limited equity) Yes",
+            "boundingBox": [
+                106.0,
+                1456.0,
+                1399.0,
+                1455.0,
+                1399.0,
+                1499.0,
+                106.0,
+                1500.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 106.0,
+                "length": 84
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1509.0,
+                1458.0,
+                1566.0,
+                1460.0,
+                1564.0,
+                1497.0,
+                1508.0,
+                1493.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1509.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "If Yes, describe: BOARD APPROVAL REQUIRED FOR ALL RE-SALES",
+            "boundingBox": [
+                158.0,
+                1512.0,
+                1283.0,
+                1517.0,
+                1283.0,
+                1562.0,
+                158.0,
+                1556.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 158.0,
+                "length": 58
+            }
+        },
+        {
+            "content": "8. Does the corporation operate pursuant to Section 216 of the IRS Code?",
+            "boundingBox": [
+                107.0,
+                1577.0,
+                1291.0,
+                1577.0,
+                1291.0,
+                1617.0,
+                107.0,
+                1618.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 107.0,
+                "length": 72
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                1371.0,
+                1584.0,
+                1424.0,
+                1585.0,
+                1423.0,
+                1615.0,
+                1371.0,
+                1615.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1371.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1544.0,
+                1585.0,
+                1593.0,
+                1584.0,
+                1593.0,
+                1614.0,
+                1546.0,
+                1616.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1544.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "9. Has control of the Board been turned over to the Shareholders?",
+            "boundingBox": [
+                106.0,
+                1642.0,
+                1245.0,
+                1640.0,
+                1245.0,
+                1682.0,
+                106.0,
+                1684.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 106.0,
+                "length": 65
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                1247.0,
+                1646.0,
+                1308.0,
+                1649.0,
+                1306.0,
+                1679.0,
+                1245.0,
+                1676.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1247.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1425.0,
+                1647.0,
+                1476.0,
+                1648.0,
+                1476.0,
+                1677.0,
+                1426.0,
+                1676.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1425.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "10. Proprietary Lease Expiration date: 9/30/2100",
+            "boundingBox": [
+                106.0,
+                1705.0,
+                901.0,
+                1701.0,
+                901.0,
+                1748.0,
+                106.0,
+                1751.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 106.0,
+                "length": 48
+            }
+        },
+        {
+            "content": "Occupancy Agreement:",
+            "boundingBox": [
+                1097.0,
+                1709.0,
+                1479.0,
+                1709.0,
+                1479.0,
+                1748.0,
+                1097.0,
+                1748.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1097.0,
+                "length": 20
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                1565.0,
+                1710.0,
+                1618.0,
+                1713.0,
+                1617.0,
+                1744.0,
+                1563.0,
+                1742.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1565.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1734.0,
+                1711.0,
+                1795.0,
+                1714.0,
+                1792.0,
+                1746.0,
+                1733.0,
+                1744.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1734.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "If yes, provide",
+            "boundingBox": [
+                1820.0,
+                1710.0,
+                2068.0,
+                1711.0,
+                2068.0,
+                1748.0,
+                1820.0,
+                1747.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1820.0,
+                "length": 15
+            }
+        },
+        {
+            "content": "11. Does the corporation impose a Flip Tax? Yes No Method of Calculation:",
+            "boundingBox": [
+                102.0,
+                1768.0,
+                1528.0,
+                1768.0,
+                1528.0,
+                1814.0,
+                102.0,
+                1814.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 102.0,
+                "length": 73
+            }
+        },
+        {
+            "content": "12. Are Institutional Lenders Exempt from paying Flip Tax upon Foreclosure?",
+            "boundingBox": [
+                107.0,
+                1834.0,
+                1317.0,
+                1837.0,
+                1317.0,
+                1882.0,
+                107.0,
+                1879.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 107.0,
+                "length": 75
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                1376.0,
+                1832.0,
+                1460.0,
+                1835.0,
+                1458.0,
+                1877.0,
+                1377.0,
+                1876.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1376.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1510.0,
+                1835.0,
+                1618.0,
+                1835.0,
+                1616.0,
+                1876.0,
+                1512.0,
+                1880.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1510.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "13. How many unit owners are in arrears on maintenance fees: 30 Days? 0",
+            "boundingBox": [
+                108.0,
+                1898.0,
+                1291.0,
+                1895.0,
+                1291.0,
+                1942.0,
+                108.0,
+                1944.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 108.0,
+                "length": 71
+            }
+        },
+        {
+            "content": "60 Days? 0",
+            "boundingBox": [
+                1632.0,
+                1897.0,
+                1825.0,
+                1895.0,
+                1825.0,
+                1937.0,
+                1632.0,
+                1939.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1632.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "14. Will the Co-op Execute the Aztech Form of Recognition Agreement? Yes",
+            "boundingBox": [
+                106.0,
+                1967.0,
+                1378.0,
+                1966.0,
+                1378.0,
+                2007.0,
+                106.0,
+                2007.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 106.0,
+                "length": 72
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1509.0,
+                1972.0,
+                1550.0,
+                1974.0,
+                1550.0,
+                1998.0,
+                1510.0,
+                1996.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1509.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "Is a Rider required?",
+            "boundingBox": [
+                1655.0,
+                1967.0,
+                1972.0,
+                1969.0,
+                1971.0,
+                2005.0,
+                1655.0,
+                2002.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1655.0,
+                "length": 20
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                2054.0,
+                1973.0,
+                2098.0,
+                1974.0,
+                2097.0,
+                2000.0,
+                2054.0,
+                1999.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2054.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                2168.0,
+                1971.0,
+                2268.0,
+                1973.0,
+                2267.0,
+                2007.0,
+                2167.0,
+                2009.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2168.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "15. Does the Corp. Limit the % of the Purchase Price/Value that may be financed?",
+            "boundingBox": [
+                104.0,
+                2030.0,
+                1400.0,
+                2030.0,
+                1400.0,
+                2072.0,
+                104.0,
+                2072.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 104.0,
+                "length": 80
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                1470.0,
+                2034.0,
+                1521.0,
+                2037.0,
+                1522.0,
+                2062.0,
+                1471.0,
+                2060.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1470.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "NO",
+            "boundingBox": [
+                1654.0,
+                2035.0,
+                1702.0,
+                2040.0,
+                1701.0,
+                2064.0,
+                1654.0,
+                2060.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1654.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "If Yes: 75",
+            "boundingBox": [
+                1763.0,
+                2029.0,
+                1929.0,
+                2029.0,
+                1929.0,
+                2069.0,
+                1763.0,
+                2068.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1763.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "%",
+            "boundingBox": [
+                2163.0,
+                2038.0,
+                2184.0,
+                2040.0,
+                2183.0,
+                2064.0,
+                2163.0,
+                2063.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2163.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "16. Does the Co-op Board receive monthly statements directly from the bank holding the funds?",
+            "boundingBox": [
+                104.0,
+                2095.0,
+                1638.0,
+                2095.0,
+                1638.0,
+                2134.0,
+                104.0,
+                2133.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 104.0,
+                "length": 93
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                1659.0,
+                2096.0,
+                1775.0,
+                2096.0,
+                1775.0,
+                2130.0,
+                1659.0,
+                2131.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1659.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1883.0,
+                2097.0,
+                1939.0,
+                2100.0,
+                1936.0,
+                2128.0,
+                1882.0,
+                2125.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1883.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "17. Does the management company maintain separate records/bank accounts for each co-op corp that uses its services, and the management",
+            "boundingBox": [
+                106.0,
+                2161.0,
+                2376.0,
+                2162.0,
+                2376.0,
+                2199.0,
+                106.0,
+                2197.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 106.0,
+                "length": 134
+            }
+        },
+        {
+            "content": "company does not have the authority to draw checks on/or transfer funds from the co-op corp's reserve account? Yes",
+            "boundingBox": [
+                170.0,
+                2216.0,
+                2096.0,
+                2215.0,
+                2096.0,
+                2255.0,
+                170.0,
+                2257.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 170.0,
+                "length": 114
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                2214.0,
+                2221.0,
+                2257.0,
+                2223.0,
+                2257.0,
+                2251.0,
+                2215.0,
+                2249.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2214.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "18. Are two or more members of the Board required to sign checks written from the Reserve Account? Yes",
+            "boundingBox": [
+                109.0,
+                2272.0,
+                1849.0,
+                2271.0,
+                1849.0,
+                2312.0,
+                109.0,
+                2313.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 109.0,
+                "length": 102
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1973.0,
+                2274.0,
+                2016.0,
+                2276.0,
+                2016.0,
+                2304.0,
+                1975.0,
+                2303.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1973.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "19. Does the Management Company carry Fidelity/Crime Insurance for their Agents? Yes",
+            "boundingBox": [
+                104.0,
+                2331.0,
+                1592.0,
+                2329.0,
+                1592.0,
+                2378.0,
+                104.0,
+                2379.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 104.0,
+                "length": 84
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1706.0,
+                2336.0,
+                1756.0,
+                2338.0,
+                1754.0,
+                2373.0,
+                1705.0,
+                2372.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1706.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "20.Is the Co-op corporation a Plaintiff or Defendant in any Litigation or other Legal Proceedings?",
+            "boundingBox": [
+                107.0,
+                2400.0,
+                1646.0,
+                2401.0,
+                1646.0,
+                2442.0,
+                107.0,
+                2440.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 107.0,
+                "length": 98
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                1728.0,
+                2401.0,
+                1780.0,
+                2403.0,
+                1779.0,
+                2433.0,
+                1728.0,
+                2433.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1728.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1903.0,
+                2403.0,
+                1950.0,
+                2407.0,
+                1948.0,
+                2432.0,
+                1902.0,
+                2427.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1903.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "If Yes, describe:",
+            "boundingBox": [
+                177.0,
+                2462.0,
+                458.0,
+                2464.0,
+                458.0,
+                2501.0,
+                177.0,
+                2498.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 177.0,
+                "length": 17
+            }
+        },
+        {
+            "content": "21. Has the Co-op Board or Property Manager been notified of any pending or active special assessments?",
+            "boundingBox": [
+                108.0,
+                2521.0,
+                1800.0,
+                2524.0,
+                1800.0,
+                2566.0,
+                108.0,
+                2563.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 108.0,
+                "length": 103
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                1891.0,
+                2524.0,
+                1956.0,
+                2524.0,
+                1954.0,
+                2561.0,
+                1890.0,
+                2559.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1891.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1995.0,
+                2514.0,
+                2111.0,
+                2526.0,
+                2108.0,
+                2559.0,
+                1993.0,
+                2558.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1995.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "22. Has the Co-op Board or Property Manager been notified of any deferred maintenance or conditions that affect the safety, structural",
+            "boundingBox": [
+                108.0,
+                2586.0,
+                2264.0,
+                2585.0,
+                2264.0,
+                2628.0,
+                108.0,
+                2629.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 108.0,
+                "length": 134
+            }
+        },
+        {
+            "content": "soundness, habitability, or functional use of the project?",
+            "boundingBox": [
+                171.0,
+                2636.0,
+                1089.0,
+                2635.0,
+                1089.0,
+                2679.0,
+                171.0,
+                2680.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 171.0,
+                "length": 58
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                1138.0,
+                2639.0,
+                1203.0,
+                2641.0,
+                1202.0,
+                2671.0,
+                1138.0,
+                2669.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1138.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1253.0,
+                2637.0,
+                1360.0,
+                2643.0,
+                1358.0,
+                2674.0,
+                1254.0,
+                2677.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1253.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "23. Has the Co-op Board or Property Manager been notified of any code violations or local government certifications the Co-op has not satisfied",
+            "boundingBox": [
+                111.0,
+                2703.0,
+                2400.0,
+                2704.0,
+                2400.0,
+                2748.0,
+                111.0,
+                2747.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 111.0,
+                "length": 143
+            }
+        },
+        {
+            "content": "now or in the last 5 years?",
+            "boundingBox": [
+                168.0,
+                2756.0,
+                581.0,
+                2755.0,
+                581.0,
+                2794.0,
+                168.0,
+                2796.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 168.0,
+                "length": 27
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                629.0,
+                2755.0,
+                728.0,
+                2757.0,
+                728.0,
+                2794.0,
+                628.0,
+                2795.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 629.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                770.0,
+                2752.0,
+                885.0,
+                2758.0,
+                885.0,
+                2792.0,
+                769.0,
+                2799.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 770.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "NOTE: If 21, 22, or 23 is Yes, the Deferred Maintenance/Special Assessments Addendum on page 3 must be completed",
+            "boundingBox": [
+                109.0,
+                2819.0,
+                2164.0,
+                2821.0,
+                2164.0,
+                2865.0,
+                109.0,
+                2861.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 109.0,
+                "length": 112
+            }
+        },
+        {
+            "content": "UNDERLYING MORTGAGE INFORMATION",
+            "boundingBox": [
+                184.0,
+                2890.0,
+                864.0,
+                2889.0,
+                864.0,
+                2932.0,
+                184.0,
+                2933.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 184.0,
+                "length": 31
+            }
+        },
+        {
+            "content": "FIRST MORTGAGE",
+            "boundingBox": [
+                1162.0,
+                2893.0,
+                1464.0,
+                2893.0,
+                1464.0,
+                2934.0,
+                1162.0,
+                2931.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1162.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "SECOND MORTGAGE",
+            "boundingBox": [
+                1884.0,
+                2891.0,
+                2243.0,
+                2889.0,
+                2243.0,
+                2931.0,
+                1884.0,
+                2935.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1884.0,
+                "length": 15
+            }
+        },
+        {
+            "content": "Lien Type (mortgage, line of credit, wrap etc.)",
+            "boundingBox": [
+                124.0,
+                2941.0,
+                776.0,
+                2941.0,
+                776.0,
+                2983.0,
+                124.0,
+                2983.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 124.0,
+                "length": 47
+            }
+        },
+        {
+            "content": "MORTGAGE",
+            "boundingBox": [
+                955.0,
+                2937.0,
+                1161.0,
+                2938.0,
+                1160.0,
+                2978.0,
+                955.0,
+                2977.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 955.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "LINE OF CREDIT",
+            "boundingBox": [
+                1704.0,
+                2935.0,
+                1969.0,
+                2935.0,
+                1969.0,
+                2977.0,
+                1704.0,
+                2978.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1704.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "Lien Holder",
+            "boundingBox": [
+                126.0,
+                2996.0,
+                311.0,
+                2996.0,
+                311.0,
+                3036.0,
+                126.0,
+                3036.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 126.0,
+                "length": 11
+            }
+        },
+        {
+            "content": "APPLE BANK",
+            "boundingBox": [
+                954.0,
+                2991.0,
+                1176.0,
+                2989.0,
+                1176.0,
+                3034.0,
+                954.0,
+                3035.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 954.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "APPLE BANK",
+            "boundingBox": [
+                1704.0,
+                2989.0,
+                1924.0,
+                2987.0,
+                1924.0,
+                3033.0,
+                1704.0,
+                3035.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1704.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "Current Mortgage Balance",
+            "boundingBox": [
+                125.0,
+                3057.0,
+                554.0,
+                3055.0,
+                554.0,
+                3091.0,
+                125.0,
+                3092.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 125.0,
+                "length": 24
+            }
+        },
+        {
+            "content": "$11 MM",
+            "boundingBox": [
+                956.0,
+                3046.0,
+                1092.0,
+                3045.0,
+                1093.0,
+                3089.0,
+                956.0,
+                3089.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 956.0,
+                "length": 6
+            }
+        },
+        {
+            "content": "$2 MM",
+            "boundingBox": [
+                1706.0,
+                3051.0,
+                1827.0,
+                3049.0,
+                1827.0,
+                3092.0,
+                1705.0,
+                3091.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1706.0,
+                "length": 5
+            }
+        },
+        {
+            "content": "Maturity Date",
+            "boundingBox": [
+                123.0,
+                3113.0,
+                345.0,
+                3113.0,
+                345.0,
+                3149.0,
+                123.0,
+                3149.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 123.0,
+                "length": 13
+            }
+        },
+        {
+            "content": "4/1/2032",
+            "boundingBox": [
+                959.0,
+                3106.0,
+                1118.0,
+                3103.0,
+                1119.0,
+                3145.0,
+                959.0,
+                3149.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 959.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "4/1/2032",
+            "boundingBox": [
+                1701.0,
+                3105.0,
+                1868.0,
+                3104.0,
+                1869.0,
+                3148.0,
+                1702.0,
+                3150.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1701.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "Monthly Payment",
+            "boundingBox": [
+                118.0,
+                3166.0,
+                411.0,
+                3165.0,
+                411.0,
+                3206.0,
+                118.0,
+                3207.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 118.0,
+                "length": 15
+            }
+        },
+        {
+            "content": "$38,564.91",
+            "boundingBox": [
+                954.0,
+                3162.0,
+                1149.0,
+                3160.0,
+                1150.0,
+                3205.0,
+                955.0,
+                3208.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 954.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "NOT DRAWN ON",
+            "boundingBox": [
+                1701.0,
+                3162.0,
+                1994.0,
+                3160.0,
+                1994.0,
+                3203.0,
+                1701.0,
+                3206.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1701.0,
+                "length": 12
+            }
+        },
+        {
+            "content": "Interest Rate",
+            "boundingBox": [
+                119.0,
+                3223.0,
+                333.0,
+                3222.0,
+                333.0,
+                3258.0,
+                119.0,
+                3259.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 119.0,
+                "length": 13
+            }
+        },
+        {
+            "content": "2.871%",
+            "boundingBox": [
+                957.0,
+                3219.0,
+                1090.0,
+                3219.0,
+                1090.0,
+                3260.0,
+                957.0,
+                3262.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 957.0,
+                "length": 6
+            }
+        },
+        {
+            "content": "Fixed/Variable",
+            "boundingBox": [
+                120.0,
+                3281.0,
+                359.0,
+                3280.0,
+                360.0,
+                3317.0,
+                120.0,
+                3318.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 120.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "FIXED",
+            "boundingBox": [
+                955.0,
+                3274.0,
+                1052.0,
+                3274.0,
+                1052.0,
+                3316.0,
+                955.0,
+                3316.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 955.0,
+                "length": 5
+            }
+        },
+        {
+            "content": "Balloon Mortgage",
+            "boundingBox": [
+                120.0,
+                3338.0,
+                419.0,
+                3339.0,
+                419.0,
+                3377.0,
+                120.0,
+                3376.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 120.0,
+                "length": 16
+            }
+        },
+        {
+            "content": "NO",
+            "boundingBox": [
+                961.0,
+                3333.0,
+                1018.0,
+                3331.0,
+                1018.0,
+                3371.0,
+                962.0,
+                3373.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 961.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "Is the first mortgage current?",
+            "boundingBox": [
+                107.0,
+                3416.0,
+                576.0,
+                3417.0,
+                576.0,
+                3457.0,
+                107.0,
+                3456.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 107.0,
+                "length": 30
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                594.0,
+                3413.0,
+                718.0,
+                3426.0,
+                716.0,
+                3458.0,
+                590.0,
+                3456.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 594.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                833.0,
+                3421.0,
+                888.0,
+                3422.0,
+                885.0,
+                3453.0,
+                830.0,
+                3452.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 833.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "If No, how many months delinquent:",
+            "boundingBox": [
+                968.0,
+                3417.0,
+                1552.0,
+                3420.0,
+                1552.0,
+                3457.0,
+                968.0,
+                3454.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 968.0,
+                "length": 34
+            }
+        },
+        {
+            "content": "Has the mortgage been modified or extended since the last financial statement?",
+            "boundingBox": [
+                111.0,
+                3474.0,
+                1384.0,
+                3473.0,
+                1384.0,
+                3514.0,
+                111.0,
+                3515.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 111.0,
+                "length": 78
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                1476.0,
+                3481.0,
+                1530.0,
+                3482.0,
+                1529.0,
+                3508.0,
+                1475.0,
+                3507.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1476.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1646.0,
+                3478.0,
+                1698.0,
+                3480.0,
+                1699.0,
+                3510.0,
+                1648.0,
+                3508.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1646.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "If Yes, explain:",
+            "boundingBox": [
+                149.0,
+                3530.0,
+                380.0,
+                3530.0,
+                380.0,
+                3573.0,
+                149.0,
+                3572.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 149.0,
+                "length": 16
+            }
+        },
+        {
+            "content": "** See page 2 for Sponsor Disclosure information to be completed when Sponsor holds greater than 10% of Total Shares/Units in project **",
+            "boundingBox": [
+                100.0,
+                3608.0,
+                2347.0,
+                3608.0,
+                2347.0,
+                3652.0,
+                100.0,
+                3652.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 100.0,
+                "length": 136
+            }
+        },
+        {
+            "content": "The undersigned hereby certifies that to the best of his/her knowledge and belief the information and statements contained on this form and",
+            "boundingBox": [
+                103.0,
+                3684.0,
+                2349.0,
+                3684.0,
+                2349.0,
+                3725.0,
+                103.0,
+                3725.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 103.0,
+                "length": 139
+            }
+        },
+        {
+            "content": "any attachments are true and correct. The undersigned further represents that he/she is authorized by the Cooperative Board to provide this",
+            "boundingBox": [
+                108.0,
+                3725.0,
+                2348.0,
+                3724.0,
+                2348.0,
+                3761.0,
+                108.0,
+                3762.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 108.0,
+                "length": 139
+            }
+        },
+        {
+            "content": "information on behalf of the board.",
+            "boundingBox": [
+                106.0,
+                3762.0,
+                679.0,
+                3762.0,
+                679.0,
+                3796.0,
+                106.0,
+                3796.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 106.0,
+                "length": 35
+            }
+        },
+        {
+            "content": "Preparer's Name: Fatima Ismaili",
+            "boundingBox": [
+                105.0,
+                3836.0,
+                629.0,
+                3821.0,
+                630.0,
+                3862.0,
+                105.0,
+                3877.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 105.0,
+                "length": 31
+            }
+        },
+        {
+            "content": "Preparer's Title: VP, Transfers & Closing DEPT.",
+            "boundingBox": [
+                1320.0,
+                3829.0,
+                2080.0,
+                3819.0,
+                2081.0,
+                3866.0,
+                1320.0,
+                3878.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1320.0,
+                "length": 47
+            }
+        },
+        {
+            "content": "Company Name: AKAM Associates, Inc.",
+            "boundingBox": [
+                107.0,
+                3883.0,
+                769.0,
+                3883.0,
+                769.0,
+                3938.0,
+                107.0,
+                3938.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 107.0,
+                "length": 35
+            }
+        },
+        {
+            "content": "Phone #: 212-271-0316",
+            "boundingBox": [
+                1324.0,
+                3885.0,
+                1718.0,
+                3881.0,
+                1718.0,
+                3925.0,
+                1324.0,
+                3930.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1324.0,
+                "length": 21
+            }
+        },
+        {
+            "content": "Fax #: 212-986-0002",
+            "boundingBox": [
+                1916.0,
+                3885.0,
+                2270.0,
+                3881.0,
+                2271.0,
+                3925.0,
+                1916.0,
+                3930.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1916.0,
+                "length": 19
+            }
+        },
+        {
+            "content": "Preparer's Signature:",
+            "boundingBox": [
+                108.0,
+                3947.0,
+                445.0,
+                3943.0,
+                446.0,
+                3989.0,
+                108.0,
+                3992.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 108.0,
+                "length": 21
+            }
+        },
+        {
+            "content": "factuin",
+            "boundingBox": [
+                461.0,
+                3933.0,
+                794.0,
+                3936.0,
+                794.0,
+                4016.0,
+                461.0,
+                4014.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 461.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "Date: 5/10/2023",
+            "boundingBox": [
+                1470.0,
+                3943.0,
+                1749.0,
+                3941.0,
+                1749.0,
+                3987.0,
+                1470.0,
+                3989.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1470.0,
+                "length": 15
+            }
+        },
+        {
+            "content": "COOPERATIVE PROJECT QUESTIONNAIRE",
+            "boundingBox": [
+                88.0,
+                4064.0,
+                793.0,
+                4063.0,
+                793.0,
+                4103.0,
+                88.0,
+                4105.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 88.0,
+                "length": 33
+            }
+        },
+        {
+            "content": "Page 1| 3",
+            "boundingBox": [
+                2309.0,
+                4064.0,
+                2462.0,
+                4064.0,
+                2462.0,
+                4107.0,
+                2309.0,
+                4106.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2309.0,
+                "length": 9
+            }
+        }
+    ],
+    [
+        {
+            "content": "guaranteed Rate",
+            "boundingBox": [
+                101.0,
+                93.0,
+                434.0,
+                89.0,
+                434.0,
+                136.0,
+                101.0,
+                138.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 101.0,
+                "length": 15
+            }
+        },
+        {
+            "content": "COMPANIES",
+            "boundingBox": [
+                128.0,
+                138.0,
+                308.0,
+                138.0,
+                308.0,
+                172.0,
+                128.0,
+                172.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 128.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "COOPERATIVE PROJECT QUESTIONNAIRE",
+            "boundingBox": [
+                1696.0,
+                106.0,
+                2479.0,
+                106.0,
+                2479.0,
+                152.0,
+                1696.0,
+                152.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1696.0,
+                "length": 33
+            }
+        },
+        {
+            "content": "SPONSOR FINANCIAL DISCLOSURE",
+            "boundingBox": [
+                85.0,
+                235.0,
+                888.0,
+                234.0,
+                888.0,
+                284.0,
+                85.0,
+                285.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 85.0,
+                "length": 28
+            }
+        },
+        {
+            "content": "Sponsor Name: COMMUNITY CHURCH",
+            "boundingBox": [
+                104.0,
+                342.0,
+                756.0,
+                333.0,
+                757.0,
+                377.0,
+                104.0,
+                385.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 104.0,
+                "length": 30
+            }
+        },
+        {
+            "content": "Contact Person:",
+            "boundingBox": [
+                1072.0,
+                345.0,
+                1338.0,
+                347.0,
+                1338.0,
+                385.0,
+                1072.0,
+                381.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1072.0,
+                "length": 15
+            }
+        },
+        {
+            "content": "Phone #:",
+            "boundingBox": [
+                2055.0,
+                346.0,
+                2205.0,
+                347.0,
+                2205.0,
+                383.0,
+                2055.0,
+                382.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2055.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "# of Shares Held: 870",
+            "boundingBox": [
+                103.0,
+                403.0,
+                462.0,
+                395.0,
+                463.0,
+                439.0,
+                103.0,
+                445.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 103.0,
+                "length": 21
+            }
+        },
+        {
+            "content": "Has Sponsor been current on maintenance for past 12 months:",
+            "boundingBox": [
+                828.0,
+                406.0,
+                1815.0,
+                406.0,
+                1815.0,
+                445.0,
+                828.0,
+                445.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 828.0,
+                "length": 59
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                1893.0,
+                408.0,
+                1945.0,
+                411.0,
+                1946.0,
+                439.0,
+                1894.0,
+                435.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1893.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                2070.0,
+                409.0,
+                2119.0,
+                410.0,
+                2117.0,
+                442.0,
+                2068.0,
+                440.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2070.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "Are Unsold Shares Pledged:",
+            "boundingBox": [
+                102.0,
+                463.0,
+                552.0,
+                466.0,
+                552.0,
+                504.0,
+                102.0,
+                501.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 102.0,
+                "length": 26
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                627.0,
+                468.0,
+                694.0,
+                472.0,
+                692.0,
+                502.0,
+                627.0,
+                497.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 627.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                805.0,
+                470.0,
+                857.0,
+                469.0,
+                857.0,
+                496.0,
+                806.0,
+                498.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 805.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "If Yes, to whom:",
+            "boundingBox": [
+                1019.0,
+                466.0,
+                1268.0,
+                466.0,
+                1268.0,
+                503.0,
+                1019.0,
+                503.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1019.0,
+                "length": 16
+            }
+        },
+        {
+            "content": "Is Loan Current:",
+            "boundingBox": [
+                106.0,
+                526.0,
+                363.0,
+                526.0,
+                363.0,
+                564.0,
+                106.0,
+                566.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 106.0,
+                "length": 16
+            }
+        },
+        {
+            "content": "Yes",
+            "boundingBox": [
+                444.0,
+                523.0,
+                502.0,
+                525.0,
+                501.0,
+                562.0,
+                443.0,
+                560.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 444.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                623.0,
+                528.0,
+                667.0,
+                531.0,
+                666.0,
+                560.0,
+                623.0,
+                557.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 623.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "Maturity Date:",
+            "boundingBox": [
+                761.0,
+                526.0,
+                998.0,
+                527.0,
+                997.0,
+                566.0,
+                761.0,
+                564.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 761.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "Rental Income on all Unsold Units: $",
+            "boundingBox": [
+                1365.0,
+                525.0,
+                1937.0,
+                523.0,
+                1937.0,
+                563.0,
+                1365.0,
+                565.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1365.0,
+                "length": 36
+            }
+        },
+        {
+            "content": "Last Amendment File #: 25",
+            "boundingBox": [
+                109.0,
+                585.0,
+                548.0,
+                582.0,
+                548.0,
+                621.0,
+                109.0,
+                623.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 109.0,
+                "length": 25
+            }
+        },
+        {
+            "content": "Maintenance Charges on all Unsold Units: $ 2,518.32",
+            "boundingBox": [
+                1245.0,
+                581.0,
+                2093.0,
+                575.0,
+                2093.0,
+                623.0,
+                1245.0,
+                624.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1245.0,
+                "length": 51
+            }
+        },
+        {
+            "content": "Date accepted by the Attorney General: 1/1995",
+            "boundingBox": [
+                107.0,
+                641.0,
+                880.0,
+                635.0,
+                881.0,
+                683.0,
+                107.0,
+                687.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 107.0,
+                "length": 45
+            }
+        },
+        {
+            "content": "Is the Sponsor Current on maintenance fees for all other projects it has greater than 10% interest in? Yes",
+            "boundingBox": [
+                108.0,
+                707.0,
+                1816.0,
+                706.0,
+                1816.0,
+                747.0,
+                108.0,
+                749.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 108.0,
+                "length": 106
+            }
+        },
+        {
+            "content": "No",
+            "boundingBox": [
+                1936.0,
+                713.0,
+                1986.0,
+                713.0,
+                1985.0,
+                743.0,
+                1936.0,
+                743.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1936.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "PROJECT SALES HISTORY",
+            "boundingBox": [
+                83.0,
+                801.0,
+                677.0,
+                800.0,
+                677.0,
+                850.0,
+                83.0,
+                851.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 83.0,
+                "length": 21
+            }
+        },
+        {
+            "content": "Borrower Name:",
+            "boundingBox": [
+                67.0,
+                910.0,
+                337.0,
+                912.0,
+                337.0,
+                948.0,
+                67.0,
+                946.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 67.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "Loan #:",
+            "boundingBox": [
+                1271.0,
+                911.0,
+                1395.0,
+                912.0,
+                1395.0,
+                948.0,
+                1271.0,
+                947.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1271.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "Unit #: 21C",
+            "boundingBox": [
+                1869.0,
+                903.0,
+                2063.0,
+                897.0,
+                2064.0,
+                942.0,
+                1870.0,
+                946.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1869.0,
+                "length": 11
+            }
+        },
+        {
+            "content": "Cooperative Corporation Name: TEN PARK AVENUE TENANTS CORP.",
+            "boundingBox": [
+                71.0,
+                962.0,
+                1197.0,
+                956.0,
+                1197.0,
+                1004.0,
+                71.0,
+                1005.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 71.0,
+                "length": 59
+            }
+        },
+        {
+            "content": "Please note that our analysis typically requires both a price per square foot and a price per share analysis. This is done on a building wide basis",
+            "boundingBox": [
+                66.0,
+                1041.0,
+                2351.0,
+                1040.0,
+                2351.0,
+                1081.0,
+                66.0,
+                1081.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 66.0,
+                "length": 147
+            }
+        },
+        {
+            "content": "regardless of the specific property that is subject to valuation. Accordingly, we request that you include all recent sales in the project regardless of",
+            "boundingBox": [
+                65.0,
+                1080.0,
+                2417.0,
+                1079.0,
+                2417.0,
+                1116.0,
+                65.0,
+                1118.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 65.0,
+                "length": 152
+            }
+        },
+        {
+            "content": "their similarity to the property being appraised. Thank You.",
+            "boundingBox": [
+                69.0,
+                1119.0,
+                1024.0,
+                1116.0,
+                1024.0,
+                1157.0,
+                69.0,
+                1160.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 69.0,
+                "length": 60
+            }
+        },
+        {
+            "content": "UNIT #",
+            "boundingBox": [
+                248.0,
+                1207.0,
+                355.0,
+                1209.0,
+                354.0,
+                1244.0,
+                247.0,
+                1241.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 248.0,
+                "length": 6
+            }
+        },
+        {
+            "content": "SALES PRICE",
+            "boundingBox": [
+                645.0,
+                1207.0,
+                866.0,
+                1207.0,
+                866.0,
+                1246.0,
+                645.0,
+                1245.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 645.0,
+                "length": 11
+            }
+        },
+        {
+            "content": "SALES DATE",
+            "boundingBox": [
+                1129.0,
+                1205.0,
+                1335.0,
+                1205.0,
+                1335.0,
+                1244.0,
+                1129.0,
+                1244.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1129.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "SHARES",
+            "boundingBox": [
+                1548.0,
+                1207.0,
+                1688.0,
+                1207.0,
+                1688.0,
+                1242.0,
+                1548.0,
+                1243.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1548.0,
+                "length": 6
+            }
+        },
+        {
+            "content": "COMMENTS",
+            "boundingBox": [
+                2012.0,
+                1208.0,
+                2224.0,
+                1206.0,
+                2224.0,
+                1241.0,
+                2012.0,
+                1243.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2012.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "11]",
+            "boundingBox": [
+                128.0,
+                1275.0,
+                186.0,
+                1274.0,
+                183.0,
+                1318.0,
+                128.0,
+                1319.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 128.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "775,000",
+            "boundingBox": [
+                489.0,
+                1269.0,
+                634.0,
+                1269.0,
+                634.0,
+                1318.0,
+                489.0,
+                1318.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 489.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "3/7/2023",
+            "boundingBox": [
+                1029.0,
+                1267.0,
+                1198.0,
+                1267.0,
+                1198.0,
+                1315.0,
+                1029.0,
+                1314.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1029.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "350",
+            "boundingBox": [
+                1453.0,
+                1273.0,
+                1518.0,
+                1272.0,
+                1516.0,
+                1316.0,
+                1451.0,
+                1318.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1453.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "19B",
+            "boundingBox": [
+                130.0,
+                1342.0,
+                193.0,
+                1345.0,
+                194.0,
+                1386.0,
+                131.0,
+                1385.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 130.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "380,000",
+            "boundingBox": [
+                489.0,
+                1347.0,
+                630.0,
+                1345.0,
+                631.0,
+                1390.0,
+                489.0,
+                1393.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 489.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "3/21/2023",
+            "boundingBox": [
+                1031.0,
+                1346.0,
+                1213.0,
+                1342.0,
+                1214.0,
+                1387.0,
+                1031.0,
+                1390.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1031.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "230",
+            "boundingBox": [
+                1453.0,
+                1342.0,
+                1522.0,
+                1344.0,
+                1520.0,
+                1391.0,
+                1451.0,
+                1390.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1453.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "27D",
+            "boundingBox": [
+                127.0,
+                1417.0,
+                196.0,
+                1419.0,
+                195.0,
+                1461.0,
+                126.0,
+                1459.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 127.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "1,050,000",
+            "boundingBox": [
+                491.0,
+                1418.0,
+                667.0,
+                1418.0,
+                667.0,
+                1468.0,
+                491.0,
+                1467.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 491.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "12/21/2022",
+            "boundingBox": [
+                1032.0,
+                1419.0,
+                1239.0,
+                1418.0,
+                1239.0,
+                1463.0,
+                1032.0,
+                1464.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1032.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "435",
+            "boundingBox": [
+                1451.0,
+                1422.0,
+                1517.0,
+                1420.0,
+                1512.0,
+                1461.0,
+                1447.0,
+                1461.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1451.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "5E",
+            "boundingBox": [
+                130.0,
+                1495.0,
+                174.0,
+                1495.0,
+                171.0,
+                1537.0,
+                128.0,
+                1537.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 130.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "490,000",
+            "boundingBox": [
+                489.0,
+                1494.0,
+                630.0,
+                1493.0,
+                630.0,
+                1535.0,
+                489.0,
+                1537.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 489.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "11/29/2022",
+            "boundingBox": [
+                1036.0,
+                1492.0,
+                1236.0,
+                1492.0,
+                1236.0,
+                1536.0,
+                1036.0,
+                1537.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1036.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "212",
+            "boundingBox": [
+                1454.0,
+                1495.0,
+                1515.0,
+                1495.0,
+                1512.0,
+                1533.0,
+                1452.0,
+                1533.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1454.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "20G",
+            "boundingBox": [
+                124.0,
+                1571.0,
+                188.0,
+                1572.0,
+                186.0,
+                1613.0,
+                121.0,
+                1612.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 124.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "585,000",
+            "boundingBox": [
+                488.0,
+                1573.0,
+                631.0,
+                1573.0,
+                631.0,
+                1614.0,
+                488.0,
+                1615.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 488.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "8/10/2022",
+            "boundingBox": [
+                1030.0,
+                1572.0,
+                1216.0,
+                1572.0,
+                1216.0,
+                1615.0,
+                1030.0,
+                1615.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1030.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "248",
+            "boundingBox": [
+                1452.0,
+                1572.0,
+                1515.0,
+                1573.0,
+                1512.0,
+                1612.0,
+                1450.0,
+                1610.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1452.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "22G",
+            "boundingBox": [
+                124.0,
+                1642.0,
+                190.0,
+                1644.0,
+                186.0,
+                1686.0,
+                120.0,
+                1683.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 124.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "TRANSFER",
+            "boundingBox": [
+                494.0,
+                1642.0,
+                676.0,
+                1642.0,
+                677.0,
+                1687.0,
+                494.0,
+                1687.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 494.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "7/20/2022",
+            "boundingBox": [
+                1032.0,
+                1642.0,
+                1215.0,
+                1642.0,
+                1215.0,
+                1686.0,
+                1032.0,
+                1686.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1032.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "254",
+            "boundingBox": [
+                1456.0,
+                1643.0,
+                1523.0,
+                1645.0,
+                1520.0,
+                1684.0,
+                1454.0,
+                1683.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1456.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "9B",
+            "boundingBox": [
+                117.0,
+                1725.0,
+                171.0,
+                1721.0,
+                172.0,
+                1762.0,
+                119.0,
+                1764.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 117.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "420,000",
+            "boundingBox": [
+                490.0,
+                1720.0,
+                632.0,
+                1718.0,
+                633.0,
+                1762.0,
+                490.0,
+                1764.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 490.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "6/30/2022",
+            "boundingBox": [
+                1028.0,
+                1717.0,
+                1219.0,
+                1717.0,
+                1219.0,
+                1765.0,
+                1028.0,
+                1764.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1028.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "206",
+            "boundingBox": [
+                1452.0,
+                1719.0,
+                1515.0,
+                1719.0,
+                1514.0,
+                1760.0,
+                1451.0,
+                1759.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1452.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "6R",
+            "boundingBox": [
+                121.0,
+                1801.0,
+                177.0,
+                1798.0,
+                179.0,
+                1839.0,
+                124.0,
+                1841.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 121.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "430,000",
+            "boundingBox": [
+                490.0,
+                1799.0,
+                627.0,
+                1796.0,
+                628.0,
+                1839.0,
+                490.0,
+                1842.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 490.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "6/23/2022",
+            "boundingBox": [
+                1028.0,
+                1795.0,
+                1218.0,
+                1795.0,
+                1219.0,
+                1841.0,
+                1028.0,
+                1842.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1028.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "212",
+            "boundingBox": [
+                1452.0,
+                1797.0,
+                1514.0,
+                1798.0,
+                1512.0,
+                1838.0,
+                1450.0,
+                1837.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1452.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "18K",
+            "boundingBox": [
+                131.0,
+                1866.0,
+                193.0,
+                1867.0,
+                194.0,
+                1909.0,
+                134.0,
+                1909.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 131.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "1,475,000",
+            "boundingBox": [
+                494.0,
+                1870.0,
+                666.0,
+                1870.0,
+                666.0,
+                1915.0,
+                494.0,
+                1916.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 494.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "6/22/2022",
+            "boundingBox": [
+                1028.0,
+                1870.0,
+                1222.0,
+                1869.0,
+                1222.0,
+                1913.0,
+                1028.0,
+                1913.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1028.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "455",
+            "boundingBox": [
+                1455.0,
+                1874.0,
+                1520.0,
+                1875.0,
+                1517.0,
+                1911.0,
+                1453.0,
+                1910.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1455.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "5G",
+            "boundingBox": [
+                123.0,
+                1944.0,
+                175.0,
+                1943.0,
+                175.0,
+                1982.0,
+                123.0,
+                1984.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 123.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "475,000",
+            "boundingBox": [
+                488.0,
+                1944.0,
+                637.0,
+                1942.0,
+                638.0,
+                1988.0,
+                488.0,
+                1989.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 488.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "5/31/2022",
+            "boundingBox": [
+                1030.0,
+                1942.0,
+                1220.0,
+                1943.0,
+                1219.0,
+                1988.0,
+                1030.0,
+                1986.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1030.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "212",
+            "boundingBox": [
+                1451.0,
+                1941.0,
+                1514.0,
+                1941.0,
+                1512.0,
+                1982.0,
+                1448.0,
+                1981.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1451.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "11L",
+            "boundingBox": [
+                129.0,
+                2023.0,
+                187.0,
+                2023.0,
+                185.0,
+                2061.0,
+                129.0,
+                2061.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 129.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "800,000",
+            "boundingBox": [
+                486.0,
+                2021.0,
+                632.0,
+                2021.0,
+                632.0,
+                2063.0,
+                486.0,
+                2063.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 486.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "5/19/2022",
+            "boundingBox": [
+                1030.0,
+                2018.0,
+                1221.0,
+                2019.0,
+                1220.0,
+                2066.0,
+                1030.0,
+                2064.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1030.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "345",
+            "boundingBox": [
+                1455.0,
+                2023.0,
+                1519.0,
+                2024.0,
+                1516.0,
+                2062.0,
+                1453.0,
+                2061.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1455.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "11]",
+            "boundingBox": [
+                127.0,
+                2093.0,
+                179.0,
+                2092.0,
+                177.0,
+                2132.0,
+                126.0,
+                2133.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 127.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "TRANSFER",
+            "boundingBox": [
+                489.0,
+                2093.0,
+                676.0,
+                2092.0,
+                676.0,
+                2135.0,
+                489.0,
+                2136.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 489.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "4/1/2022",
+            "boundingBox": [
+                1030.0,
+                2092.0,
+                1193.0,
+                2092.0,
+                1193.0,
+                2137.0,
+                1030.0,
+                2137.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1030.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "350",
+            "boundingBox": [
+                1453.0,
+                2094.0,
+                1516.0,
+                2095.0,
+                1512.0,
+                2132.0,
+                1450.0,
+                2132.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1453.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "5B",
+            "boundingBox": [
+                116.0,
+                2172.0,
+                174.0,
+                2171.0,
+                174.0,
+                2209.0,
+                118.0,
+                2209.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 116.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "525,000",
+            "boundingBox": [
+                497.0,
+                2168.0,
+                633.0,
+                2168.0,
+                633.0,
+                2211.0,
+                497.0,
+                2211.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 497.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "3/3/2022",
+            "boundingBox": [
+                1026.0,
+                2168.0,
+                1198.0,
+                2166.0,
+                1198.0,
+                2211.0,
+                1026.0,
+                2214.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1026.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "194",
+            "boundingBox": [
+                1450.0,
+                2166.0,
+                1519.0,
+                2166.0,
+                1518.0,
+                2204.0,
+                1450.0,
+                2202.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1450.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "5C",
+            "boundingBox": [
+                119.0,
+                2248.0,
+                174.0,
+                2247.0,
+                174.0,
+                2287.0,
+                120.0,
+                2288.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 119.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "432,500",
+            "boundingBox": [
+                491.0,
+                2246.0,
+                632.0,
+                2247.0,
+                631.0,
+                2290.0,
+                491.0,
+                2288.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 491.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "2/14/2022",
+            "boundingBox": [
+                1029.0,
+                2243.0,
+                1218.0,
+                2246.0,
+                1217.0,
+                2292.0,
+                1028.0,
+                2290.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1029.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "194",
+            "boundingBox": [
+                1453.0,
+                2246.0,
+                1517.0,
+                2246.0,
+                1514.0,
+                2288.0,
+                1452.0,
+                2285.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1453.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "10R",
+            "boundingBox": [
+                122.0,
+                2324.0,
+                192.0,
+                2323.0,
+                192.0,
+                2364.0,
+                122.0,
+                2365.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 122.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "455,000",
+            "boundingBox": [
+                494.0,
+                2324.0,
+                633.0,
+                2320.0,
+                634.0,
+                2364.0,
+                494.0,
+                2367.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 494.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "1/20/2022",
+            "boundingBox": [
+                1030.0,
+                2319.0,
+                1213.0,
+                2319.0,
+                1213.0,
+                2365.0,
+                1030.0,
+                2365.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1030.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "224",
+            "boundingBox": [
+                1452.0,
+                2324.0,
+                1515.0,
+                2324.0,
+                1514.0,
+                2365.0,
+                1451.0,
+                2365.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1452.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "23S",
+            "boundingBox": [
+                129.0,
+                2394.0,
+                191.0,
+                2395.0,
+                189.0,
+                2435.0,
+                126.0,
+                2434.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 129.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "740,000",
+            "boundingBox": [
+                494.0,
+                2394.0,
+                633.0,
+                2394.0,
+                632.0,
+                2436.0,
+                494.0,
+                2434.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 494.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "1/12/2022",
+            "boundingBox": [
+                1036.0,
+                2395.0,
+                1222.0,
+                2393.0,
+                1222.0,
+                2438.0,
+                1036.0,
+                2440.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1036.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "430",
+            "boundingBox": [
+                1455.0,
+                2397.0,
+                1519.0,
+                2397.0,
+                1516.0,
+                2434.0,
+                1452.0,
+                2434.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1455.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "4]",
+            "boundingBox": [
+                127.0,
+                2470.0,
+                171.0,
+                2473.0,
+                169.0,
+                2514.0,
+                127.0,
+                2512.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 127.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "712,000",
+            "boundingBox": [
+                491.0,
+                2470.0,
+                637.0,
+                2469.0,
+                637.0,
+                2512.0,
+                491.0,
+                2513.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 491.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "1/8/2022",
+            "boundingBox": [
+                1034.0,
+                2471.0,
+                1198.0,
+                2470.0,
+                1198.0,
+                2513.0,
+                1034.0,
+                2514.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1034.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "359",
+            "boundingBox": [
+                1451.0,
+                2472.0,
+                1516.0,
+                2472.0,
+                1515.0,
+                2511.0,
+                1450.0,
+                2510.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1451.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "11L",
+            "boundingBox": [
+                129.0,
+                2550.0,
+                185.0,
+                2550.0,
+                185.0,
+                2590.0,
+                130.0,
+                2588.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 129.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "800,000",
+            "boundingBox": [
+                492.0,
+                2548.0,
+                633.0,
+                2548.0,
+                634.0,
+                2589.0,
+                492.0,
+                2590.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 492.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "5/20/2022",
+            "boundingBox": [
+                1032.0,
+                2544.0,
+                1219.0,
+                2545.0,
+                1219.0,
+                2590.0,
+                1032.0,
+                2588.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1032.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "345",
+            "boundingBox": [
+                1456.0,
+                2548.0,
+                1518.0,
+                2549.0,
+                1516.0,
+                2586.0,
+                1456.0,
+                2585.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1456.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "5G",
+            "boundingBox": [
+                127.0,
+                2619.0,
+                177.0,
+                2618.0,
+                176.0,
+                2658.0,
+                127.0,
+                2659.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 127.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "475,000",
+            "boundingBox": [
+                488.0,
+                2621.0,
+                630.0,
+                2620.0,
+                631.0,
+                2659.0,
+                488.0,
+                2660.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 488.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "5/31/2022",
+            "boundingBox": [
+                1031.0,
+                2614.0,
+                1219.0,
+                2620.0,
+                1218.0,
+                2665.0,
+                1030.0,
+                2659.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1031.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "212",
+            "boundingBox": [
+                1456.0,
+                2618.0,
+                1522.0,
+                2620.0,
+                1520.0,
+                2658.0,
+                1455.0,
+                2656.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1456.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "The undersigned hereby certifies that to the best of his/her knowledge and belief the information and statements contained on this form and any",
+            "boundingBox": [
+                76.0,
+                3566.0,
+                2381.0,
+                3566.0,
+                2381.0,
+                3604.0,
+                76.0,
+                3605.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 76.0,
+                "length": 143
+            }
+        },
+        {
+            "content": "behalf of the board.",
+            "boundingBox": [
+                69.0,
+                3641.0,
+                396.0,
+                3641.0,
+                396.0,
+                3679.0,
+                69.0,
+                3679.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 69.0,
+                "length": 20
+            }
+        },
+        {
+            "content": "attachments are true and correct. The undersigned further represents that he/she is authorized by the Cooperative Board to provide this information on",
+            "boundingBox": [
+                70.0,
+                3604.0,
+                2480.0,
+                3604.0,
+                2480.0,
+                3641.0,
+                70.0,
+                3642.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 70.0,
+                "length": 150
+            }
+        },
+        {
+            "content": "Preparer's Name: FATIM A ISM AILI",
+            "boundingBox": [
+                70.0,
+                3696.0,
+                636.0,
+                3695.0,
+                636.0,
+                3736.0,
+                70.0,
+                3736.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 70.0,
+                "length": 33
+            }
+        },
+        {
+            "content": "Preparer's Title: VP, TRANSFERS & CLOSING DEPT.",
+            "boundingBox": [
+                1270.0,
+                3692.0,
+                2118.0,
+                3688.0,
+                2119.0,
+                3734.0,
+                1270.0,
+                3738.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1270.0,
+                "length": 47
+            }
+        },
+        {
+            "content": "Company Name: AKAM ASSOCIATES",
+            "boundingBox": [
+                72.0,
+                3751.0,
+                682.0,
+                3751.0,
+                682.0,
+                3804.0,
+                72.0,
+                3799.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 72.0,
+                "length": 29
+            }
+        },
+        {
+            "content": "Phone #: 212-271-0316",
+            "boundingBox": [
+                1273.0,
+                3751.0,
+                1670.0,
+                3748.0,
+                1671.0,
+                3790.0,
+                1273.0,
+                3793.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1273.0,
+                "length": 21
+            }
+        },
+        {
+            "content": "Fax #: 212-986-0002",
+            "boundingBox": [
+                1862.0,
+                3750.0,
+                2223.0,
+                3748.0,
+                2223.0,
+                3791.0,
+                1862.0,
+                3792.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1862.0,
+                "length": 19
+            }
+        },
+        {
+            "content": "Preparer's Signature: Jacquin",
+            "boundingBox": [
+                70.0,
+                3800.0,
+                693.0,
+                3800.0,
+                692.0,
+                3877.0,
+                69.0,
+                3866.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 70.0,
+                "length": 29
+            }
+        },
+        {
+            "content": "Date: 5/10/2023",
+            "boundingBox": [
+                1417.0,
+                3808.0,
+                1711.0,
+                3810.0,
+                1711.0,
+                3856.0,
+                1416.0,
+                3852.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1417.0,
+                "length": 15
+            }
+        },
+        {
+            "content": "COOPERATIVE PROJECT QUESTIONNAIRE",
+            "boundingBox": [
+                91.0,
+                4065.0,
+                797.0,
+                4065.0,
+                798.0,
+                4104.0,
+                91.0,
+                4105.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 91.0,
+                "length": 33
+            }
+        },
+        {
+            "content": "Page 2 | 3",
+            "boundingBox": [
+                2305.0,
+                4064.0,
+                2466.0,
+                4064.0,
+                2466.0,
+                4105.0,
+                2305.0,
+                4104.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2305.0,
+                "length": 10
+            }
+        }
+    ],
+    [
+        {
+            "content": "guaranteed Rate",
+            "boundingBox": [
+                99.0,
+                92.0,
+                439.0,
+                89.0,
+                439.0,
+                135.0,
+                100.0,
+                138.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 99.0,
+                "length": 15
+            }
+        },
+        {
+            "content": "COMPANIES",
+            "boundingBox": [
+                124.0,
+                138.0,
+                312.0,
+                137.0,
+                312.0,
+                173.0,
+                125.0,
+                174.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 124.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "COOPERATIVE PROJECT QUESTIONNAIRE",
+            "boundingBox": [
+                1690.0,
+                105.0,
+                2479.0,
+                106.0,
+                2479.0,
+                154.0,
+                1690.0,
+                153.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1690.0,
+                "length": 33
+            }
+        },
+        {
+            "content": "DEFERRED MAINTENANCE & SPECIAL ASSESSMENT ADDENDUM",
+            "boundingBox": [
+                94.0,
+                238.0,
+                1442.0,
+                238.0,
+                1442.0,
+                284.0,
+                94.0,
+                283.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 94.0,
+                "length": 50
+            }
+        },
+        {
+            "content": "This addendum is ONLY to be completed if there is evidence of significant deferred maintenance, special assessments,",
+            "boundingBox": [
+                70.0,
+                328.0,
+                2473.0,
+                331.0,
+                2473.0,
+                379.0,
+                70.0,
+                375.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 70.0,
+                "length": 116
+            }
+        },
+        {
+            "content": "and/or code violations.",
+            "boundingBox": [
+                78.0,
+                379.0,
+                554.0,
+                380.0,
+                553.0,
+                423.0,
+                78.0,
+                421.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 78.0,
+                "length": 23
+            }
+        },
+        {
+            "content": "DEFERRED MAINTENANCE (Defined as deficiencies, defects, substantial damage, or maintenance that is severe",
+            "boundingBox": [
+                93.0,
+                455.0,
+                2324.0,
+                458.0,
+                2324.0,
+                503.0,
+                93.0,
+                498.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 93.0,
+                "length": 105
+            }
+        },
+        {
+            "content": "enough to affect the safety, soundness, structural integrity, or habitability of the improvements)",
+            "boundingBox": [
+                92.0,
+                502.0,
+                1981.0,
+                502.0,
+                1981.0,
+                548.0,
+                92.0,
+                549.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 92.0,
+                "length": 98
+            }
+        },
+        {
+            "content": "YES",
+            "boundingBox": [
+                2244.0,
+                602.0,
+                2305.0,
+                602.0,
+                2305.0,
+                635.0,
+                2244.0,
+                635.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2244.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "NO",
+            "boundingBox": [
+                2358.0,
+                606.0,
+                2407.0,
+                605.0,
+                2408.0,
+                631.0,
+                2357.0,
+                632.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2358.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "Are the repairs 100% complete and paid for? If Yes, skip to next section",
+            "boundingBox": [
+                116.0,
+                656.0,
+                1255.0,
+                656.0,
+                1255.0,
+                699.0,
+                116.0,
+                698.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 116.0,
+                "length": 72
+            }
+        },
+        {
+            "content": "· If No, what specifically is not complete?",
+            "boundingBox": [
+                150.0,
+                731.0,
+                796.0,
+                731.0,
+                796.0,
+                772.0,
+                150.0,
+                772.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 150.0,
+                "length": 43
+            }
+        },
+        {
+            "content": "· When is the estimated time of completion for the remaining repairs?",
+            "boundingBox": [
+                150.0,
+                806.0,
+                1257.0,
+                807.0,
+                1257.0,
+                847.0,
+                150.0,
+                845.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 150.0,
+                "length": 69
+            }
+        },
+        {
+            "content": "· What is the estimated cost of any unfinished repairs?",
+            "boundingBox": [
+                145.0,
+                880.0,
+                1012.0,
+                880.0,
+                1012.0,
+                923.0,
+                145.0,
+                922.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 145.0,
+                "length": 55
+            }
+        },
+        {
+            "content": "· Does the maintenance require full or partial evacuation of the building to complete repairs for > 7 days (or for an unknown",
+            "boundingBox": [
+                146.0,
+                957.0,
+                2093.0,
+                957.0,
+                2093.0,
+                999.0,
+                146.0,
+                999.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 146.0,
+                "length": 125
+            }
+        },
+        {
+            "content": "period of time)?",
+            "boundingBox": [
+                165.0,
+                997.0,
+                421.0,
+                994.0,
+                422.0,
+                1033.0,
+                165.0,
+                1035.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 165.0,
+                "length": 16
+            }
+        },
+        {
+            "content": "· Do any unfinished repairs affect the functioning of any major building components (including but not limited to the",
+            "boundingBox": [
+                144.0,
+                1067.0,
+                2005.0,
+                1067.0,
+                2005.0,
+                1106.0,
+                144.0,
+                1107.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 144.0,
+                "length": 117
+            }
+        },
+        {
+            "content": "foundation, roof, load bearing structures, electrical, HVAC or plumbing)?",
+            "boundingBox": [
+                168.0,
+                1106.0,
+                1310.0,
+                1106.0,
+                1310.0,
+                1148.0,
+                168.0,
+                1147.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 168.0,
+                "length": 73
+            }
+        },
+        {
+            "content": "CODE VIOLATIONS/LOCAL GOVERNMENT CERTIFICATION REQUIREMENTS",
+            "boundingBox": [
+                91.0,
+                1247.0,
+                1658.0,
+                1247.0,
+                1658.0,
+                1297.0,
+                91.0,
+                1297.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 91.0,
+                "length": 59
+            }
+        },
+        {
+            "content": "YES",
+            "boundingBox": [
+                2238.0,
+                1355.0,
+                2307.0,
+                1354.0,
+                2307.0,
+                1388.0,
+                2241.0,
+                1388.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2238.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "NO",
+            "boundingBox": [
+                2355.0,
+                1355.0,
+                2410.0,
+                1356.0,
+                2410.0,
+                1387.0,
+                2357.0,
+                1386.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2355.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "Are there any outstanding code violations or local government certification requirements? If No, skip to next section",
+            "boundingBox": [
+                122.0,
+                1412.0,
+                1971.0,
+                1411.0,
+                1971.0,
+                1452.0,
+                122.0,
+                1453.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 122.0,
+                "length": 117
+            }
+        },
+        {
+            "content": "· Provide detail of specific code violations or local government certification requirements",
+            "boundingBox": [
+                150.0,
+                1486.0,
+                1559.0,
+                1486.0,
+                1559.0,
+                1528.0,
+                150.0,
+                1530.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 150.0,
+                "length": 91
+            }
+        },
+        {
+            "content": "· When is the estimated time of completion for the remaining violations?",
+            "boundingBox": [
+                149.0,
+                1636.0,
+                1298.0,
+                1636.0,
+                1298.0,
+                1675.0,
+                149.0,
+                1675.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 149.0,
+                "length": 72
+            }
+        },
+        {
+            "content": "· What is the estimated cost of any unfinished repairs?",
+            "boundingBox": [
+                149.0,
+                1710.0,
+                1011.0,
+                1710.0,
+                1011.0,
+                1750.0,
+                149.0,
+                1749.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 149.0,
+                "length": 55
+            }
+        },
+        {
+            "content": "· When will the building be re-inspected to confirm the violations are satisfied?",
+            "boundingBox": [
+                144.0,
+                1786.0,
+                1400.0,
+                1786.0,
+                1400.0,
+                1828.0,
+                144.0,
+                1827.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 144.0,
+                "length": 81
+            }
+        },
+        {
+            "content": "SPECIAL ASSESSMENTS",
+            "boundingBox": [
+                89.0,
+                1926.0,
+                601.0,
+                1926.0,
+                601.0,
+                1970.0,
+                89.0,
+                1971.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 89.0,
+                "length": 19
+            }
+        },
+        {
+            "content": "YES",
+            "boundingBox": [
+                2244.0,
+                2031.0,
+                2305.0,
+                2032.0,
+                2303.0,
+                2062.0,
+                2244.0,
+                2061.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2244.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "NO",
+            "boundingBox": [
+                2358.0,
+                2031.0,
+                2406.0,
+                2032.0,
+                2405.0,
+                2059.0,
+                2359.0,
+                2058.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2358.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "Are there any outstanding current or pending special assessments? If No, skip to next section",
+            "boundingBox": [
+                145.0,
+                2087.0,
+                1632.0,
+                2086.0,
+                1632.0,
+                2128.0,
+                145.0,
+                2129.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 145.0,
+                "length": 93
+            }
+        },
+        {
+            "content": "· Provide the reason for all current or pending special assessments:",
+            "boundingBox": [
+                147.0,
+                2160.0,
+                1211.0,
+                2161.0,
+                1211.0,
+                2200.0,
+                147.0,
+                2200.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 147.0,
+                "length": 68
+            }
+        },
+        {
+            "content": "CAPITAL IM PROVEM ENTS",
+            "boundingBox": [
+                176.0,
+                2239.0,
+                622.0,
+                2240.0,
+                622.0,
+                2283.0,
+                176.0,
+                2282.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 176.0,
+                "length": 22
+            }
+        },
+        {
+            "content": "· Total amount assessed: $150,000",
+            "boundingBox": [
+                148.0,
+                2312.0,
+                764.0,
+                2313.0,
+                763.0,
+                2360.0,
+                148.0,
+                2356.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 148.0,
+                "length": 33
+            }
+        },
+        {
+            "content": "· Is any percentage of the special assessment delinquent?",
+            "boundingBox": [
+                147.0,
+                2387.0,
+                1070.0,
+                2386.0,
+                1070.0,
+                2426.0,
+                147.0,
+                2426.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 147.0,
+                "length": 57
+            }
+        },
+        {
+            "content": "» If Yes, what percentage of the dollar amount assessed is delinquent?",
+            "boundingBox": [
+                179.0,
+                2460.0,
+                1298.0,
+                2460.0,
+                1298.0,
+                2500.0,
+                179.0,
+                2501.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 179.0,
+                "length": 70
+            }
+        },
+        {
+            "content": "· Confirm what, if any, amount is assessed to our unit and duration/frequency:",
+            "boundingBox": [
+                143.0,
+                2535.0,
+                1386.0,
+                2535.0,
+                1386.0,
+                2577.0,
+                143.0,
+                2576.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 143.0,
+                "length": 78
+            }
+        },
+        {
+            "content": "$36.79/MONTHLY",
+            "boundingBox": [
+                173.0,
+                2627.0,
+                494.0,
+                2626.0,
+                494.0,
+                2675.0,
+                173.0,
+                2675.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 173.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "· Is any portion of the repairs being funded by the HOA's reserves?",
+            "boundingBox": [
+                141.0,
+                2707.0,
+                1204.0,
+                2706.0,
+                1204.0,
+                2749.0,
+                141.0,
+                2750.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 141.0,
+                "length": 67
+            }
+        },
+        {
+            "content": "If the special assessment is not related to a repair, skip to the next section",
+            "boundingBox": [
+                120.0,
+                2783.0,
+                1286.0,
+                2783.0,
+                1286.0,
+                2822.0,
+                120.0,
+                2823.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 120.0,
+                "length": 78
+            }
+        },
+        {
+            "content": "· Do sufficient reserves exist currently to complete ALL the work regardless of special assessments?",
+            "boundingBox": [
+                144.0,
+                2858.0,
+                1717.0,
+                2858.0,
+                1717.0,
+                2896.0,
+                144.0,
+                2896.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 144.0,
+                "length": 100
+            }
+        },
+        {
+            "content": "· Has the determination been made that the amount of the assessment is sufficient to complete the work?",
+            "boundingBox": [
+                145.0,
+                2931.0,
+                1832.0,
+                2931.0,
+                1832.0,
+                2971.0,
+                145.0,
+                2971.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 145.0,
+                "length": 103
+            }
+        },
+        {
+            "content": "V",
+            "boundingBox": [
+                2248.0,
+                2964.0,
+                2287.0,
+                2962.0,
+                2285.0,
+                2989.0,
+                2246.0,
+                2992.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2248.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "» If No, will future assessments be imposed to complete the work?",
+            "boundingBox": [
+                180.0,
+                3006.0,
+                1234.0,
+                3006.0,
+                1234.0,
+                3050.0,
+                180.0,
+                3050.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 180.0,
+                "length": 65
+            }
+        },
+        {
+            "content": "REQUIRED DOCUMENTATION (Documents must be provided in addition to answering the questions above)",
+            "boundingBox": [
+                94.0,
+                3200.0,
+                2243.0,
+                3200.0,
+                2243.0,
+                3250.0,
+                94.0,
+                3249.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 94.0,
+                "length": 96
+            }
+        },
+        {
+            "content": "DOCUMENTS INCLUDED",
+            "boundingBox": [
+                1787.0,
+                3304.0,
+                2193.0,
+                3305.0,
+                2193.0,
+                3343.0,
+                1787.0,
+                3342.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1787.0,
+                "length": 18
+            }
+        },
+        {
+            "content": "YES",
+            "boundingBox": [
+                2236.0,
+                3310.0,
+                2304.0,
+                3309.0,
+                2305.0,
+                3342.0,
+                2238.0,
+                3342.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2236.0,
+                "length": 3
+            }
+        },
+        {
+            "content": "NO",
+            "boundingBox": [
+                2358.0,
+                3311.0,
+                2407.0,
+                3311.0,
+                2408.0,
+                3337.0,
+                2357.0,
+                3339.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2358.0,
+                "length": 2
+            }
+        },
+        {
+            "content": "· Financials including:",
+            "boundingBox": [
+                153.0,
+                3362.0,
+                492.0,
+                3366.0,
+                491.0,
+                3406.0,
+                152.0,
+                3401.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 153.0,
+                "length": 23
+            }
+        },
+        {
+            "content": "» Income and expense statement dated within the last 90 days",
+            "boundingBox": [
+                182.0,
+                3437.0,
+                1181.0,
+                3436.0,
+                1181.0,
+                3478.0,
+                182.0,
+                3479.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 182.0,
+                "length": 60
+            }
+        },
+        {
+            "content": "» Balance sheet dated within the last 90 days",
+            "boundingBox": [
+                182.0,
+                3513.0,
+                903.0,
+                3513.0,
+                903.0,
+                3553.0,
+                182.0,
+                3552.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 182.0,
+                "length": 45
+            }
+        },
+        {
+            "content": "» Current operating budget",
+            "boundingBox": [
+                180.0,
+                3588.0,
+                623.0,
+                3588.0,
+                623.0,
+                3629.0,
+                180.0,
+                3625.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 180.0,
+                "length": 26
+            }
+        },
+        {
+            "content": "· Last 6 months meeting minutes",
+            "boundingBox": [
+                148.0,
+                3662.0,
+                673.0,
+                3661.0,
+                673.0,
+                3704.0,
+                148.0,
+                3704.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 148.0,
+                "length": 31
+            }
+        },
+        {
+            "content": "· Any local government inspections/engineer's reports/certifications (if applicable)",
+            "boundingBox": [
+                143.0,
+                3737.0,
+                1462.0,
+                3735.0,
+                1462.0,
+                3779.0,
+                143.0,
+                3781.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 143.0,
+                "length": 84
+            }
+        },
+        {
+            "content": "· A copy of the code violations (if applicable)",
+            "boundingBox": [
+                147.0,
+                3812.0,
+                857.0,
+                3812.0,
+                857.0,
+                3853.0,
+                147.0,
+                3853.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 147.0,
+                "length": 47
+            }
+        },
+        {
+            "content": "· A reserve study ONLY if it has been completed within the last 2 years",
+            "boundingBox": [
+                145.0,
+                3886.0,
+                1260.0,
+                3887.0,
+                1260.0,
+                3930.0,
+                145.0,
+                3929.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 145.0,
+                "length": 71
+            }
+        },
+        {
+            "content": "Updated 2/9/2022",
+            "boundingBox": [
+                2101.0,
+                4068.0,
+                2419.0,
+                4068.0,
+                2418.0,
+                4105.0,
+                2101.0,
+                4105.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2101.0,
+                "length": 16
+            }
+        }
+    ]
+]

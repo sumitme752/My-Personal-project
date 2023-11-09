@@ -1,0 +1,180 @@
+Total number of Units in Building:
+Total number of Owner-Occupied Units:
+Total number of Rented/Sublet Units:
+Total number of Floors in this building?  
+Total number of Sponsor-Owned Units:
+How many units rent regulated?
+How many units fair market?
+Does anyone own more than 10% of Units?
+Is owner current on maintenance?
+Any Units used for Commercial use?
+Any food/bar establishments?
+Are they vacant?
+Are any delinquent in payments/paying reduced rents?
+Current Balance of Reserves:
+Proprietary Lease Expiration Date:
+Is Coop subject to a Land/Ground Lease?
+Does the boiler run on Oil or Gas? 
+Are there any plans to upgrade/convert to gas?
+when and how will it be funded?
+Is this an Artists in Residency (AIR) building?
+Is the Coop an HDFC?
+Has the Coop purchased the air rights from the buildings which abut the premises?
+Most Recent Financials Available:
+Max amount (%) Purchaser may finance:
+Are you aware if any bank has ever denied financing to a potential Purchaser in this building due to a condition of the Coop (either physical or financial)?
+Is there a debt to income ratio requirement for incoming Purchasers?
+Does the building allow interest only loans? 
+Does Coop permit pied-à-terres?
+Does Coop permit purchasing as a Trust? 
+Does Coop permit purchasing as an LLC?
+Does Coop permit purchasing as a Corp.?
+Any additional fees or requirements for purchasing as Trust/LLC/Corp.?
+Is there a bike room available?
+Is there a fitness room available?
+Has there been any toxic mold or asbestos in the building?
+Please explain all remediation efforts?
+Does Coop permit parents to co-purchase or purchase for their adult children?
+Does Coop permit subletting? please list fees/restrictions:
+Does Coop permit pets? please list fees/restrictions:
+Does Coop permit washers/dryers in Unit?
+If washer/dryer already present, is it "grandfathered" in or does it need to be removed?
+Is parking available?
+Is there a waitlist?
+Please list fees/restrictions:
+Is storage available?
+Does it transfer with Unit?
+Is there a waitlist for storage?
+Please list storage fees/restrictions:
+Is there any current/pending litigation involving the Unit, Coop, Sponsor or Seller?
+Is litigation covered by insurance?
+Is there a flip tax?
+How much is flip tax?
+Paid by Purchaser or Seller?
+Please describe any homeowner's insurance requirements:
+How many amendments to the offering plan are there?
+Where is the superintendent/resident manager located/live?
+Does the Coop carry fidelity Insurance?
+Can owners benefit from the coop primary residence abatement in this coop?
+What utilities are included with the monthly common charges?
+Is either party required to make a contribution to reserves or a working capital fund at closing?
+who pays and what is the amount?
+Is there a requirement for the Buyer or Seller to replace windows in conjunction with the transaction?
+Who is responsible for the maintenance/replacement of HVAC or AC units, shareholder or coop? 
+Are there violations currently against the coop?
+Will Coop provide indemnification letters if requested?
+Are there "black out" periods during the year for performing renovations?
+Are there limits to the number of alterations to take place at one time?
+Does the corporation have right of first refusal for sales and rentals?
+What is the current building efficiency rating (A, B, etc)?
+In connection with Local Law 97, is there any work that the building will need to perform by 2024 to meet NYC standards?
+If so, when, what is the approximate cost, and how will it be funded?
+Is there any anticipated work for 2030 related to Local Law 97?  
+Please share any details on what that work might be
+Number of Shares Allocated to Subject Unit: 
+Current Maintenance for Unit:
+If any additional monthly fees (ex. storage fee, electric, cable, etc.), please describe:
+Any upcoming Maintenance increases?
+How much is the increase?
+Any current Assessments?
+What is Assessment for? 
+Any upcoming/pending Assessments? 
+What is upcoming Assessment for?
+History of Maintenance Increases:
+History of Assessments:
+Is this a combined Unit?
+Any recent renovations in this Unit?
+Any open Alteration Agreements on file or approved by the Board against this Unit?
+Any lot line windows in this Unit?
+Who is responsible for maintaining and/or repairing any windows in the Unit?
+Any noise complaints from this Unit?
+Any odor complaints from this Unit?
+Any leaks in this Unit?
+Any bed bugs/vermin in this Unit?
+Any other complaints about this Unit?
+Does the current owner qualify for the condo tax abatement?
+Any other noise complaints in the Building?
+Any odor complaints in the Building?
+Any leaks in the Building?
+Any bed bugs/vermin in the Building?
+Any other complaints about the Building?
+Is the Coop currently doing any Roof work?
+Date of last repair/replacement Elevator work?
+Date of last repair/replacement Boiler work?
+Date of last repair/replacement Façade/LL11 work?
+Date of last repair/replacement Other work?
+Estimated cost of current capital projects?
+How will current projects be funded (ex. reserves, assessment, etc.)?
+Please describe any future/pending capital projects, including estimated costs and start date:
+How will future/pending projects be funded (ex. reserves, assessment, etc.)?
+Are the Building's operating systems (ex. elevators, electrical, HVAC, plumbing, heating, etc.) in good working order?
+Any construction at nearby buildings?
+Are there any critical maintenance, material deficiencies repairs, or significant deferred maintenance approved now or planned in the future?
+Are there any code violations or local government certifications the HOA has not satisfied now or in the last 5 years?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

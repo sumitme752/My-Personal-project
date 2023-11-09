@@ -1,0 +1,3128 @@
+[
+    [
+        {
+            "content": "cítì",
+            "boundingBox": [
+                2081.0,
+                148.0,
+                2250.0,
+                146.0,
+                2250.0,
+                254.0,
+                2079.0,
+                256.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2081.0,
+                "length": 4
+            }
+        },
+        {
+            "content": "Co-op Questionnaire",
+            "boundingBox": [
+                985.0,
+                313.0,
+                1568.0,
+                309.0,
+                1569.0,
+                377.0,
+                985.0,
+                378.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 985.0,
+                "length": 19
+            }
+        },
+        {
+            "content": "TO BE COMPLETED BY CO-OP OR MANAGEMENT REPRESENTATIVE",
+            "boundingBox": [
+                352.0,
+                405.0,
+                2201.0,
+                406.0,
+                2201.0,
+                469.0,
+                352.0,
+                467.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 352.0,
+                "length": 53
+            }
+        },
+        {
+            "content": "General Information",
+            "boundingBox": [
+                1022.0,
+                541.0,
+                1529.0,
+                540.0,
+                1529.0,
+                594.0,
+                1022.0,
+                595.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1022.0,
+                "length": 19
+            }
+        },
+        {
+            "content": "Customer Name:",
+            "boundingBox": [
+                297.0,
+                661.0,
+                624.0,
+                662.0,
+                624.0,
+                707.0,
+                297.0,
+                705.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 297.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "Loan #",
+            "boundingBox": [
+                1140.0,
+                660.0,
+                1262.0,
+                659.0,
+                1262.0,
+                700.0,
+                1140.0,
+                701.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1140.0,
+                "length": 6
+            }
+        },
+        {
+            "content": "Unit #",
+            "boundingBox": [
+                1760.0,
+                659.0,
+                1883.0,
+                658.0,
+                1883.0,
+                703.0,
+                1761.0,
+                701.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1760.0,
+                "length": 6
+            }
+        },
+        {
+            "content": "Corporation Legal Name:",
+            "boundingBox": [
+                296.0,
+                767.0,
+                768.0,
+                766.0,
+                768.0,
+                812.0,
+                296.0,
+                813.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 296.0,
+                "length": 23
+            }
+        },
+        {
+            "content": "Property Address (City, State, Zip Code):",
+            "boundingBox": [
+                297.0,
+                870.0,
+                1045.0,
+                869.0,
+                1045.0,
+                921.0,
+                297.0,
+                922.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 297.0,
+                "length": 41
+            }
+        },
+        {
+            "content": "Co-op Corporation's Tax Identification (TIN):",
+            "boundingBox": [
+                298.0,
+                978.0,
+                1122.0,
+                978.0,
+                1122.0,
+                1027.0,
+                298.0,
+                1028.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 298.0,
+                "length": 45
+            }
+        },
+        {
+            "content": "Project type (Check all that apply.)",
+            "boundingBox": [
+                297.0,
+                1081.0,
+                958.0,
+                1082.0,
+                958.0,
+                1135.0,
+                297.0,
+                1134.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 297.0,
+                "length": 36
+            }
+        },
+        {
+            "content": "High Rise",
+            "boundingBox": [
+                297.0,
+                1200.0,
+                522.0,
+                1201.0,
+                522.0,
+                1247.0,
+                297.0,
+                1246.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 297.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "Mid Rise",
+            "boundingBox": [
+                753.0,
+                1202.0,
+                958.0,
+                1204.0,
+                957.0,
+                1248.0,
+                752.0,
+                1244.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 753.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "Townhouse",
+            "boundingBox": [
+                1203.0,
+                1204.0,
+                1470.0,
+                1205.0,
+                1470.0,
+                1248.0,
+                1203.0,
+                1246.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1203.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "Row House",
+            "boundingBox": [
+                1651.0,
+                1205.0,
+                1913.0,
+                1205.0,
+                1913.0,
+                1246.0,
+                1651.0,
+                1245.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1651.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "Garden Level",
+            "boundingBox": [
+                294.0,
+                1327.0,
+                591.0,
+                1325.0,
+                591.0,
+                1369.0,
+                294.0,
+                1372.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 294.0,
+                "length": 12
+            }
+        },
+        {
+            "content": "Other",
+            "boundingBox": [
+                750.0,
+                1330.0,
+                905.0,
+                1328.0,
+                906.0,
+                1366.0,
+                750.0,
+                1368.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 750.0,
+                "length": 5
+            }
+        },
+        {
+            "content": "Does the building contain any of the following? (Check all that apply.)",
+            "boundingBox": [
+                299.0,
+                1434.0,
+                1631.0,
+                1434.0,
+                1631.0,
+                1489.0,
+                299.0,
+                1489.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 299.0,
+                "length": 71
+            }
+        },
+        {
+            "content": "Daily or short-term rentals, hotel/resort activities",
+            "boundingBox": [
+                302.0,
+                1556.0,
+                1281.0,
+                1556.0,
+                1281.0,
+                1604.0,
+                302.0,
+                1604.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 302.0,
+                "length": 52
+            }
+        },
+        {
+            "content": "Leasehold",
+            "boundingBox": [
+                297.0,
+                1638.0,
+                553.0,
+                1637.0,
+                553.0,
+                1683.0,
+                297.0,
+                1684.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 297.0,
+                "length": 9
+            }
+        },
+        {
+            "content": "Continuing Care Retirement Community or Life Care Facility where residents sign long-term contracts",
+            "boundingBox": [
+                295.0,
+                1719.0,
+                2253.0,
+                1720.0,
+                2253.0,
+                1772.0,
+                295.0,
+                1770.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 295.0,
+                "length": 99
+            }
+        },
+        {
+            "content": "for housing, medical assisted-living, and other services",
+            "boundingBox": [
+                293.0,
+                1788.0,
+                1315.0,
+                1789.0,
+                1315.0,
+                1838.0,
+                293.0,
+                1838.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 293.0,
+                "length": 56
+            }
+        },
+        {
+            "content": "Sponsor/Developer retained ownership interest in any of the amenities or facilities - If checked,",
+            "boundingBox": [
+                297.0,
+                1866.0,
+                2143.0,
+                1866.0,
+                2143.0,
+                1916.0,
+                297.0,
+                1917.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 297.0,
+                "length": 97
+            }
+        },
+        {
+            "content": "provide specifics",
+            "boundingBox": [
+                293.0,
+                1940.0,
+                616.0,
+                1938.0,
+                617.0,
+                1982.0,
+                293.0,
+                1986.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 293.0,
+                "length": 17
+            }
+        },
+        {
+            "content": "Manufactured Homes",
+            "boundingBox": [
+                303.0,
+                2013.0,
+                768.0,
+                2014.0,
+                768.0,
+                2060.0,
+                303.0,
+                2060.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 303.0,
+                "length": 18
+            }
+        },
+        {
+            "content": "Limited Equity",
+            "boundingBox": [
+                302.0,
+                2095.0,
+                632.0,
+                2096.0,
+                631.0,
+                2143.0,
+                302.0,
+                2141.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 302.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "Other unique characteristics",
+            "boundingBox": [
+                295.0,
+                2178.0,
+                895.0,
+                2176.0,
+                896.0,
+                2223.0,
+                295.0,
+                2225.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 295.0,
+                "length": 28
+            }
+        },
+        {
+            "content": "1",
+            "boundingBox": [
+                1265.0,
+                3054.0,
+                1295.0,
+                3054.0,
+                1292.0,
+                3097.0,
+                1264.0,
+                3097.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1265.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "Created: December 7, 2021",
+            "boundingBox": [
+                1734.0,
+                3105.0,
+                2252.0,
+                3101.0,
+                2253.0,
+                3151.0,
+                1734.0,
+                3153.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1734.0,
+                "length": 25
+            }
+        }
+    ],
+    [
+        {
+            "content": "citi®",
+            "boundingBox": [
+                2078.0,
+                164.0,
+                2255.0,
+                154.0,
+                2256.0,
+                250.0,
+                2079.0,
+                254.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2078.0,
+                "length": 5
+            }
+        },
+        {
+            "content": "Completion Information",
+            "boundingBox": [
+                981.0,
+                308.0,
+                1575.0,
+                307.0,
+                1575.0,
+                368.0,
+                981.0,
+                368.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 981.0,
+                "length": 22
+            }
+        },
+        {
+            "content": "1. Was the property originally built as a co-op? [ Yes [] No If Yes, year constructed?",
+            "boundingBox": [
+                375.0,
+                456.0,
+                2016.0,
+                455.0,
+                2016.0,
+                508.0,
+                375.0,
+                510.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 375.0,
+                "length": 86
+            }
+        },
+        {
+            "content": "2. Is the project 100% complete, including all construction and renovation of units, common",
+            "boundingBox": [
+                368.0,
+                596.0,
+                2158.0,
+                597.0,
+                2158.0,
+                649.0,
+                368.0,
+                648.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 368.0,
+                "length": 91
+            }
+        },
+        {
+            "content": "units, and shared elements? [ Yes [ No",
+            "boundingBox": [
+                441.0,
+                693.0,
+                1243.0,
+                692.0,
+                1243.0,
+                740.0,
+                441.0,
+                745.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 441.0,
+                "length": 38
+            }
+        },
+        {
+            "content": "3. Is the project a conversion of an existing structure such as an apartment, retail, or professional",
+            "boundingBox": [
+                370.0,
+                767.0,
+                2254.0,
+                768.0,
+                2254.0,
+                821.0,
+                370.0,
+                820.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 370.0,
+                "length": 101
+            }
+        },
+        {
+            "content": "business, industrial or other non-residential use within the last 3 years? [] Yes [] No",
+            "boundingBox": [
+                445.0,
+                861.0,
+                2067.0,
+                859.0,
+                2067.0,
+                910.0,
+                445.0,
+                912.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 445.0,
+                "length": 87
+            }
+        },
+        {
+            "content": "If answer is Yes, answer a-d below:",
+            "boundingBox": [
+                440.0,
+                937.0,
+                1105.0,
+                938.0,
+                1105.0,
+                988.0,
+                440.0,
+                986.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 440.0,
+                "length": 35
+            }
+        },
+        {
+            "content": "a. What was the conversion date?",
+            "boundingBox": [
+                441.0,
+                1006.0,
+                1089.0,
+                1004.0,
+                1089.0,
+                1049.0,
+                441.0,
+                1051.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 441.0,
+                "length": 32
+            }
+        },
+        {
+            "content": "b. What was the building's prior use?",
+            "boundingBox": [
+                449.0,
+                1132.0,
+                1142.0,
+                1133.0,
+                1142.0,
+                1181.0,
+                449.0,
+                1179.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 449.0,
+                "length": 37
+            }
+        },
+        {
+            "content": "c. Was the conversion a total gut rehabilitation? [ Yes [ No",
+            "boundingBox": [
+                442.0,
+                1286.0,
+                1600.0,
+                1286.0,
+                1600.0,
+                1340.0,
+                442.0,
+                1340.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 442.0,
+                "length": 60
+            }
+        },
+        {
+            "content": "d. What major components of the project have been replaced?",
+            "boundingBox": [
+                444.0,
+                1366.0,
+                1628.0,
+                1365.0,
+                1628.0,
+                1414.0,
+                444.0,
+                1415.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 444.0,
+                "length": 59
+            }
+        },
+        {
+            "content": "Ownership Information (Complete the following for Residential Units only):",
+            "boundingBox": [
+                297.0,
+                1536.0,
+                1737.0,
+                1535.0,
+                1737.0,
+                1586.0,
+                297.0,
+                1587.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 297.0,
+                "length": 74
+            }
+        },
+        {
+            "content": "4. Total # of buildings in project:",
+            "boundingBox": [
+                369.0,
+                1642.0,
+                1020.0,
+                1646.0,
+                1019.0,
+                1695.0,
+                369.0,
+                1689.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 369.0,
+                "length": 35
+            }
+        },
+        {
+            "content": "5. Total # shares in project:",
+            "boundingBox": [
+                365.0,
+                1703.0,
+                916.0,
+                1707.0,
+                915.0,
+                1757.0,
+                365.0,
+                1755.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 365.0,
+                "length": 29
+            }
+        },
+        {
+            "content": "6. Total # residential units in project:",
+            "boundingBox": [
+                370.0,
+                1773.0,
+                1106.0,
+                1775.0,
+                1106.0,
+                1821.0,
+                370.0,
+                1818.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 370.0,
+                "length": 40
+            }
+        },
+        {
+            "content": "7. Total # owner-occupied units/shares:",
+            "boundingBox": [
+                367.0,
+                1834.0,
+                1166.0,
+                1835.0,
+                1166.0,
+                1883.0,
+                367.0,
+                1883.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 367.0,
+                "length": 39
+            }
+        },
+        {
+            "content": "-",
+            "boundingBox": [
+                953.0,
+                1905.0,
+                946.0,
+                1947.0,
+                926.0,
+                1945.0,
+                932.0,
+                1904.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 953.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "8. Total # investor-owned/sublet shares/units (not owned by sponsor):",
+            "boundingBox": [
+                370.0,
+                1965.0,
+                1760.0,
+                1966.0,
+                1760.0,
+                2017.0,
+                370.0,
+                2015.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 370.0,
+                "length": 69
+            }
+        },
+        {
+            "content": "-",
+            "boundingBox": [
+                953.0,
+                2034.0,
+                945.0,
+                2073.0,
+                925.0,
+                2074.0,
+                933.0,
+                2035.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 953.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "9. Sponsor/Holder of Unsold Shares - Tenant Occupied shares/units (Market Rent):",
+            "boundingBox": [
+                369.0,
+                2092.0,
+                1993.0,
+                2092.0,
+                1992.0,
+                2145.0,
+                369.0,
+                2144.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 369.0,
+                "length": 80
+            }
+        },
+        {
+            "content": "10. Sponsor/Holder of Unsold Shares - Tenant Occupied shares/units (Regulated Rent):",
+            "boundingBox": [
+                371.0,
+                2219.0,
+                2048.0,
+                2219.0,
+                2048.0,
+                2277.0,
+                371.0,
+                2276.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 371.0,
+                "length": 84
+            }
+        },
+        {
+            "content": "11. Sponsor/Holder of Unsold Shares - Vacant shares/units:",
+            "boundingBox": [
+                369.0,
+                2350.0,
+                1529.0,
+                2350.0,
+                1529.0,
+                2403.0,
+                369.0,
+                2404.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 369.0,
+                "length": 58
+            }
+        },
+        {
+            "content": "12. Total # shares/units owned by the co-op corporation:",
+            "boundingBox": [
+                373.0,
+                2479.0,
+                1473.0,
+                2482.0,
+                1472.0,
+                2529.0,
+                373.0,
+                2526.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 373.0,
+                "length": 56
+            }
+        },
+        {
+            "content": "13. Have there been any contiguous units from the original plan combined to form larger",
+            "boundingBox": [
+                369.0,
+                2610.0,
+                2074.0,
+                2610.0,
+                2074.0,
+                2660.0,
+                369.0,
+                2659.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 369.0,
+                "length": 87
+            }
+        },
+        {
+            "content": "units/apartments? If Yes, what was the original number:",
+            "boundingBox": [
+                447.0,
+                2674.0,
+                1514.0,
+                2674.0,
+                1514.0,
+                2727.0,
+                447.0,
+                2727.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 447.0,
+                "length": 55
+            }
+        },
+        {
+            "content": "14. Does the co-op corporation require the issuance of a unified single proprietary lease and stock",
+            "boundingBox": [
+                369.0,
+                2805.0,
+                2257.0,
+                2804.0,
+                2257.0,
+                2852.0,
+                369.0,
+                2853.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 369.0,
+                "length": 99
+            }
+        },
+        {
+            "content": "certificate for these combined units? [ Yes [ No",
+            "boundingBox": [
+                444.0,
+                2897.0,
+                1404.0,
+                2896.0,
+                1404.0,
+                2945.0,
+                444.0,
+                2947.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 444.0,
+                "length": 48
+            }
+        },
+        {
+            "content": "2",
+            "boundingBox": [
+                1261.0,
+                3052.0,
+                1295.0,
+                3052.0,
+                1291.0,
+                3094.0,
+                1259.0,
+                3095.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1261.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "Created: December 7, 2021",
+            "boundingBox": [
+                1734.0,
+                3106.0,
+                2254.0,
+                3101.0,
+                2254.0,
+                3151.0,
+                1734.0,
+                3154.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1734.0,
+                "length": 25
+            }
+        }
+    ],
+    [
+        {
+            "content": "cítì®",
+            "boundingBox": [
+                2085.0,
+                162.0,
+                2254.0,
+                156.0,
+                2254.0,
+                250.0,
+                2084.0,
+                254.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2085.0,
+                "length": 5
+            }
+        },
+        {
+            "content": "Sponsor/Holder of Unsold Shares Information",
+            "boundingBox": [
+                707.0,
+                308.0,
+                1834.0,
+                307.0,
+                1834.0,
+                366.0,
+                707.0,
+                367.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 707.0,
+                "length": 43
+            }
+        },
+        {
+            "content": "15. Sponsor/Holder of Unsold Shares Name:",
+            "boundingBox": [
+                372.0,
+                428.0,
+                1223.0,
+                428.0,
+                1222.0,
+                479.0,
+                372.0,
+                479.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 372.0,
+                "length": 41
+            }
+        },
+        {
+            "content": "16. Sponsor//Holder of Unsold Shares phone#/email:",
+            "boundingBox": [
+                371.0,
+                492.0,
+                1397.0,
+                492.0,
+                1397.0,
+                543.0,
+                371.0,
+                543.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 371.0,
+                "length": 50
+            }
+        },
+        {
+            "content": "17. Has the Sponsor/Holder of Unsold Shares been current with all Co-op financial obligations",
+            "boundingBox": [
+                373.0,
+                555.0,
+                2171.0,
+                557.0,
+                2171.0,
+                607.0,
+                373.0,
+                606.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 373.0,
+                "length": 93
+            }
+        },
+        {
+            "content": "during the past 12 months? [ Yes [] No If No, provide details of delinquencies:",
+            "boundingBox": [
+                439.0,
+                647.0,
+                1976.0,
+                648.0,
+                1976.0,
+                703.0,
+                439.0,
+                702.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 439.0,
+                "length": 79
+            }
+        },
+        {
+            "content": "18. How many units/shares are subject to non-eviction rent regulation codes (e.g ., rent",
+            "boundingBox": [
+                371.0,
+                792.0,
+                2047.0,
+                793.0,
+                2047.0,
+                843.0,
+                371.0,
+                840.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 371.0,
+                "length": 88
+            }
+        },
+        {
+            "content": "controlled/stabilized/protected)?",
+            "boundingBox": [
+                448.0,
+                857.0,
+                1094.0,
+                855.0,
+                1094.0,
+                903.0,
+                448.0,
+                906.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 448.0,
+                "length": 33
+            }
+        },
+        {
+            "content": "19. New York Only - Is the Sponsor/Holder of Unsold Shares exempt from filing amendments with",
+            "boundingBox": [
+                371.0,
+                919.0,
+                2245.0,
+                920.0,
+                2245.0,
+                971.0,
+                371.0,
+                970.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 371.0,
+                "length": 93
+            }
+        },
+        {
+            "content": "the New York Attorney General's Office? [ Yes [ No",
+            "boundingBox": [
+                441.0,
+                1013.0,
+                1488.0,
+                1012.0,
+                1489.0,
+                1060.0,
+                441.0,
+                1062.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 441.0,
+                "length": 50
+            }
+        },
+        {
+            "content": "If No, number of last Attorney General Amendment",
+            "boundingBox": [
+                446.0,
+                1132.0,
+                1412.0,
+                1133.0,
+                1411.0,
+                1182.0,
+                445.0,
+                1181.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 446.0,
+                "length": 48
+            }
+        },
+        {
+            "content": "Date Filed:",
+            "boundingBox": [
+                1697.0,
+                1134.0,
+                1896.0,
+                1134.0,
+                1895.0,
+                1178.0,
+                1696.0,
+                1177.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1697.0,
+                "length": 11
+            }
+        },
+        {
+            "content": "If Yes, date CPS-5 exemption was filed",
+            "boundingBox": [
+                439.0,
+                1236.0,
+                1163.0,
+                1238.0,
+                1163.0,
+                1287.0,
+                439.0,
+                1286.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 439.0,
+                "length": 38
+            }
+        },
+        {
+            "content": "Other Information",
+            "boundingBox": [
+                1052.0,
+                1352.0,
+                1503.0,
+                1353.0,
+                1502.0,
+                1403.0,
+                1052.0,
+                1400.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1052.0,
+                "length": 17
+            }
+        },
+        {
+            "content": "20. Has sponsor relinquished control to the Board of Directors? [ Yes [] No",
+            "boundingBox": [
+                370.0,
+                1498.0,
+                1839.0,
+                1496.0,
+                1839.0,
+                1544.0,
+                370.0,
+                1547.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 370.0,
+                "length": 75
+            }
+        },
+        {
+            "content": "If Yes, provide date:",
+            "boundingBox": [
+                447.0,
+                1574.0,
+                827.0,
+                1575.0,
+                827.0,
+                1620.0,
+                447.0,
+                1620.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 447.0,
+                "length": 21
+            }
+        },
+        {
+            "content": "21. Does any entity (the same individual, investor or investor group, partnership, or corporation)",
+            "boundingBox": [
+                367.0,
+                1694.0,
+                2232.0,
+                1696.0,
+                2232.0,
+                1747.0,
+                367.0,
+                1745.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 367.0,
+                "length": 98
+            }
+        },
+        {
+            "content": "excluding the sponsor/holder of unsold shares own more than the following total number of",
+            "boundingBox": [
+                444.0,
+                1762.0,
+                2221.0,
+                1759.0,
+                2221.0,
+                1817.0,
+                444.0,
+                1818.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 444.0,
+                "length": 89
+            }
+        },
+        {
+            "content": "units in the project?",
+            "boundingBox": [
+                441.0,
+                1835.0,
+                835.0,
+                1834.0,
+                836.0,
+                1883.0,
+                441.0,
+                1885.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 441.0,
+                "length": 21
+            }
+        },
+        {
+            "content": "Projects with 5 to 20 units - 2 units",
+            "boundingBox": [
+                509.0,
+                1917.0,
+                1165.0,
+                1919.0,
+                1165.0,
+                1970.0,
+                508.0,
+                1968.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 509.0,
+                "length": 37
+            }
+        },
+        {
+            "content": "Projects with 21 or more units - 20%",
+            "boundingBox": [
+                512.0,
+                2011.0,
+                1197.0,
+                2010.0,
+                1197.0,
+                2060.0,
+                512.0,
+                2061.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 512.0,
+                "length": 36
+            }
+        },
+        {
+            "content": "If Yes, please identify the entity and how many units owned?",
+            "boundingBox": [
+                444.0,
+                2131.0,
+                1591.0,
+                2133.0,
+                1591.0,
+                2183.0,
+                444.0,
+                2182.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 444.0,
+                "length": 60
+            }
+        },
+        {
+            "content": "22. Is the cooperative a party to any current or pending litigation, arbitration, or mediation",
+            "boundingBox": [
+                366.0,
+                2304.0,
+                2118.0,
+                2304.0,
+                2118.0,
+                2354.0,
+                366.0,
+                2354.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 366.0,
+                "length": 94
+            }
+        },
+        {
+            "content": "(excluding collection or foreclosure actions)? [ Yes _ No",
+            "boundingBox": [
+                448.0,
+                2396.0,
+                1554.0,
+                2396.0,
+                1554.0,
+                2444.0,
+                448.0,
+                2446.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 448.0,
+                "length": 57
+            }
+        },
+        {
+            "content": "If Yes, please provide a copy of the complaint and status update",
+            "boundingBox": [
+                448.0,
+                2473.0,
+                1644.0,
+                2474.0,
+                1644.0,
+                2524.0,
+                448.0,
+                2522.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 448.0,
+                "length": 64
+            }
+        },
+        {
+            "content": "23. How many shareholders are delinquent on their maintenance/assessment fees greater than",
+            "boundingBox": [
+                370.0,
+                2536.0,
+                2208.0,
+                2537.0,
+                2208.0,
+                2591.0,
+                370.0,
+                2590.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 370.0,
+                "length": 90
+            }
+        },
+        {
+            "content": "30 days and greater than 60 days?",
+            "boundingBox": [
+                442.0,
+                2602.0,
+                1103.0,
+                2602.0,
+                1103.0,
+                2652.0,
+                442.0,
+                2652.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 442.0,
+                "length": 33
+            }
+        },
+        {
+            "content": "24. Are any of the units/apartments subject to resale restrictions or affordable or subsidized",
+            "boundingBox": [
+                364.0,
+                2666.0,
+                2143.0,
+                2666.0,
+                2143.0,
+                2716.0,
+                364.0,
+                2717.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 364.0,
+                "length": 94
+            }
+        },
+        {
+            "content": "housing programs that restrict the resale the price, occupancy, or age? [ Yes [] No",
+            "boundingBox": [
+                445.0,
+                2759.0,
+                2048.0,
+                2758.0,
+                2048.0,
+                2809.0,
+                445.0,
+                2809.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 445.0,
+                "length": 83
+            }
+        },
+        {
+            "content": "If Yes, list type of restrictions and unit #s:",
+            "boundingBox": [
+                446.0,
+                2835.0,
+                1219.0,
+                2835.0,
+                1219.0,
+                2887.0,
+                446.0,
+                2887.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 446.0,
+                "length": 46
+            }
+        },
+        {
+            "content": "3",
+            "boundingBox": [
+                1262.0,
+                3055.0,
+                1291.0,
+                3054.0,
+                1287.0,
+                3095.0,
+                1261.0,
+                3097.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1262.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "Created: December 7, 2021",
+            "boundingBox": [
+                1734.0,
+                3105.0,
+                2252.0,
+                3101.0,
+                2253.0,
+                3151.0,
+                1734.0,
+                3153.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1734.0,
+                "length": 25
+            }
+        }
+    ],
+    [
+        {
+            "content": "cítì®",
+            "boundingBox": [
+                2085.0,
+                161.0,
+                2253.0,
+                154.0,
+                2254.0,
+                248.0,
+                2084.0,
+                254.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2085.0,
+                "length": 5
+            }
+        },
+        {
+            "content": "25. Does the co-op impose a flip tax, waiver, or stock transfer fee? [ Yes [ No",
+            "boundingBox": [
+                367.0,
+                332.0,
+                1904.0,
+                331.0,
+                1904.0,
+                382.0,
+                367.0,
+                384.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 367.0,
+                "length": 79
+            }
+        },
+        {
+            "content": "If Yes, amount: $/%",
+            "boundingBox": [
+                445.0,
+                412.0,
+                816.0,
+                412.0,
+                816.0,
+                460.0,
+                445.0,
+                458.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 445.0,
+                "length": 19
+            }
+        },
+        {
+            "content": "26. Is the lender exempt from paying the flip tax/waiver or stock fee in the event of foreclosure,",
+            "boundingBox": [
+                370.0,
+                540.0,
+                2216.0,
+                540.0,
+                2216.0,
+                588.0,
+                370.0,
+                588.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 370.0,
+                "length": 98
+            }
+        },
+        {
+            "content": "or any other transfer by the borrower in lieu of foreclosure? [ Yes [] No",
+            "boundingBox": [
+                441.0,
+                633.0,
+                1867.0,
+                629.0,
+                1867.0,
+                682.0,
+                441.0,
+                683.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 441.0,
+                "length": 73
+            }
+        },
+        {
+            "content": "27. Does the co-op qualify as a Residential Corporation as defined by IRS section 216?",
+            "boundingBox": [
+                361.0,
+                708.0,
+                2017.0,
+                706.0,
+                2017.0,
+                758.0,
+                361.0,
+                760.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 361.0,
+                "length": 86
+            }
+        },
+        {
+            "content": "Yes _ No",
+            "boundingBox": [
+                454.0,
+                801.0,
+                686.0,
+                801.0,
+                686.0,
+                846.0,
+                454.0,
+                847.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 454.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "28. Proprietary Lease expiration date:",
+            "boundingBox": [
+                370.0,
+                877.0,
+                1107.0,
+                877.0,
+                1107.0,
+                927.0,
+                370.0,
+                927.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 370.0,
+                "length": 38
+            }
+        },
+        {
+            "content": "29. Is management aware of any building violations against the project buildings? [ Yes [ No",
+            "boundingBox": [
+                368.0,
+                973.0,
+                2200.0,
+                970.0,
+                2200.0,
+                1021.0,
+                368.0,
+                1023.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 368.0,
+                "length": 92
+            }
+        },
+        {
+            "content": "If Yes, provide details",
+            "boundingBox": [
+                448.0,
+                1050.0,
+                849.0,
+                1051.0,
+                849.0,
+                1098.0,
+                448.0,
+                1097.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 448.0,
+                "length": 23
+            }
+        },
+        {
+            "content": "30. Are any major capital improvements planned soon? [ Yes [] No",
+            "boundingBox": [
+                371.0,
+                1141.0,
+                1692.0,
+                1138.0,
+                1692.0,
+                1191.0,
+                371.0,
+                1195.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 371.0,
+                "length": 64
+            }
+        },
+        {
+            "content": "31. Are there any current or planned special assessments? [ Yes [] No",
+            "boundingBox": [
+                366.0,
+                1248.0,
+                1762.0,
+                1244.0,
+                1762.0,
+                1295.0,
+                366.0,
+                1299.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 366.0,
+                "length": 69
+            }
+        },
+        {
+            "content": "If Yes, what is the reason for the special assessment? What is the total amount assessed and",
+            "boundingBox": [
+                441.0,
+                1326.0,
+                2183.0,
+                1326.0,
+                2183.0,
+                1374.0,
+                441.0,
+                1375.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 441.0,
+                "length": 92
+            }
+        },
+        {
+            "content": "payment terms?",
+            "boundingBox": [
+                442.0,
+                1395.0,
+                754.0,
+                1391.0,
+                755.0,
+                1435.0,
+                443.0,
+                1439.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 442.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "32. If there are any current or planned special assessments, are they related to the safety,",
+            "boundingBox": [
+                367.0,
+                1455.0,
+                2095.0,
+                1455.0,
+                2095.0,
+                1503.0,
+                367.0,
+                1504.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 367.0,
+                "length": 92
+            }
+        },
+        {
+            "content": "soundness, structural integrity, or habitability of the cooperative buildings [ Yes [ No",
+            "boundingBox": [
+                439.0,
+                1548.0,
+                2121.0,
+                1546.0,
+                2121.0,
+                1594.0,
+                439.0,
+                1597.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 439.0,
+                "length": 88
+            }
+        },
+        {
+            "content": "33. Has the Co-op had an Engineer's Report, inspection or other certification reports completed",
+            "boundingBox": [
+                366.0,
+                1621.0,
+                2202.0,
+                1622.0,
+                2202.0,
+                1672.0,
+                366.0,
+                1672.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 366.0,
+                "length": 95
+            }
+        },
+        {
+            "content": "within the last 5 years to identify any deferred maintenance that may need to be addressed?",
+            "boundingBox": [
+                445.0,
+                1688.0,
+                2227.0,
+                1688.0,
+                2227.0,
+                1738.0,
+                445.0,
+                1738.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 445.0,
+                "length": 91
+            }
+        },
+        {
+            "content": "Yes ] No If Yes, provide a copy of the report.",
+            "boundingBox": [
+                448.0,
+                1778.0,
+                1380.0,
+                1783.0,
+                1379.0,
+                1831.0,
+                448.0,
+                1827.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 448.0,
+                "length": 46
+            }
+        },
+        {
+            "content": "34. Does the co-op have a garage or other parking facilities? [ Yes [ No Is it owned by the co-op",
+            "boundingBox": [
+                371.0,
+                1885.0,
+                2260.0,
+                1885.0,
+                2260.0,
+                1935.0,
+                371.0,
+                1935.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 371.0,
+                "length": 97
+            }
+        },
+        {
+            "content": "corporation or another entity? [ Yes [] No",
+            "boundingBox": [
+                440.0,
+                1996.0,
+                1290.0,
+                1987.0,
+                1291.0,
+                2036.0,
+                440.0,
+                2045.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 440.0,
+                "length": 42
+            }
+        },
+        {
+            "content": "35. Is any space within the project address or project site designated for commercial or non-",
+            "boundingBox": [
+                371.0,
+                2069.0,
+                2134.0,
+                2069.0,
+                2134.0,
+                2117.0,
+                371.0,
+                2119.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 371.0,
+                "length": 93
+            }
+        },
+        {
+            "content": "residential use? [] Yes [] No Please include above and below grade space used for commercial",
+            "boundingBox": [
+                444.0,
+                2162.0,
+                2260.0,
+                2163.0,
+                2260.0,
+                2214.0,
+                444.0,
+                2213.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 444.0,
+                "length": 92
+            }
+        },
+        {
+            "content": "purposes, such as public parking facilities, retail space, apartments, professional or commercial",
+            "boundingBox": [
+                445.0,
+                2243.0,
+                2221.0,
+                2241.0,
+                2221.0,
+                2290.0,
+                445.0,
+                2292.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 445.0,
+                "length": 97
+            }
+        },
+        {
+            "content": "offices, etc .,",
+            "boundingBox": [
+                441.0,
+                2305.0,
+                677.0,
+                2309.0,
+                676.0,
+                2356.0,
+                441.0,
+                2349.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 441.0,
+                "length": 15
+            }
+        },
+        {
+            "content": "If answer is Yes, answer a-c below:",
+            "boundingBox": [
+                443.0,
+                2409.0,
+                1106.0,
+                2412.0,
+                1106.0,
+                2460.0,
+                443.0,
+                2457.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 443.0,
+                "length": 35
+            }
+        },
+        {
+            "content": "a. What is Commercial/Professional Square Footage:",
+            "boundingBox": [
+                444.0,
+                2514.0,
+                1457.0,
+                2516.0,
+                1457.0,
+                2566.0,
+                444.0,
+                2563.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 444.0,
+                "length": 50
+            }
+        },
+        {
+            "content": "b. What is the Percentage of Building's Square Footage devoted to Commercial/Professional",
+            "boundingBox": [
+                435.0,
+                2578.0,
+                2196.0,
+                2578.0,
+                2196.0,
+                2627.0,
+                435.0,
+                2628.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 435.0,
+                "length": 89
+            }
+        },
+        {
+            "content": "use?",
+            "boundingBox": [
+                524.0,
+                2652.0,
+                616.0,
+                2651.0,
+                613.0,
+                2686.0,
+                525.0,
+                2687.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 524.0,
+                "length": 4
+            }
+        },
+        {
+            "content": "C. Describe the Commercial/Professional use",
+            "boundingBox": [
+                448.0,
+                2709.0,
+                1317.0,
+                2709.0,
+                1317.0,
+                2756.0,
+                448.0,
+                2757.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 448.0,
+                "length": 43
+            }
+        },
+        {
+            "content": "4",
+            "boundingBox": [
+                1265.0,
+                3056.0,
+                1295.0,
+                3058.0,
+                1291.0,
+                3094.0,
+                1262.0,
+                3093.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1265.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "Created: December 7, 2021",
+            "boundingBox": [
+                1734.0,
+                3106.0,
+                2259.0,
+                3102.0,
+                2259.0,
+                3151.0,
+                1734.0,
+                3153.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1734.0,
+                "length": 25
+            }
+        }
+    ],
+    [
+        {
+            "content": "citi®",
+            "boundingBox": [
+                2084.0,
+                168.0,
+                2256.0,
+                156.0,
+                2254.0,
+                235.0,
+                2083.0,
+                247.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2084.0,
+                "length": 5
+            }
+        },
+        {
+            "content": "36. Do the unit owners have sole ownership interest in and the right to use the project amenities",
+            "boundingBox": [
+                369.0,
+                308.0,
+                2230.0,
+                308.0,
+                2230.0,
+                356.0,
+                369.0,
+                355.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 369.0,
+                "length": 97
+            }
+        },
+        {
+            "content": "and common areas?",
+            "boundingBox": [
+                439.0,
+                401.0,
+                852.0,
+                401.0,
+                852.0,
+                446.0,
+                439.0,
+                446.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 439.0,
+                "length": 17
+            }
+        },
+        {
+            "content": "Yes O No",
+            "boundingBox": [
+                868.0,
+                393.0,
+                1121.0,
+                399.0,
+                1120.0,
+                446.0,
+                867.0,
+                441.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 868.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "If No, explain who has ownership interest in and rights to use the project amenities and",
+            "boundingBox": [
+                441.0,
+                518.0,
+                2088.0,
+                518.0,
+                2088.0,
+                565.0,
+                441.0,
+                565.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 441.0,
+                "length": 88
+            }
+        },
+        {
+            "content": "common areas:",
+            "boundingBox": [
+                443.0,
+                589.0,
+                743.0,
+                588.0,
+                743.0,
+                624.0,
+                443.0,
+                626.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 443.0,
+                "length": 13
+            }
+        },
+        {
+            "content": "Co-op Underlying Mortgage Information",
+            "boundingBox": [
+                786.0,
+                1223.0,
+                1771.0,
+                1223.0,
+                1771.0,
+                1283.0,
+                786.0,
+                1283.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 786.0,
+                "length": 37
+            }
+        },
+        {
+            "content": "Co-op Underlying Mortgage Information",
+            "boundingBox": [
+                926.0,
+                1347.0,
+                1682.0,
+                1347.0,
+                1682.0,
+                1395.0,
+                926.0,
+                1395.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 926.0,
+                "length": 37
+            }
+        },
+        {
+            "content": "1st Mortgage",
+            "boundingBox": [
+                639.0,
+                1402.0,
+                883.0,
+                1409.0,
+                882.0,
+                1456.0,
+                637.0,
+                1449.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 639.0,
+                "length": 12
+            }
+        },
+        {
+            "content": "2nd Mortgage",
+            "boundingBox": [
+                1200.0,
+                1404.0,
+                1456.0,
+                1408.0,
+                1455.0,
+                1455.0,
+                1200.0,
+                1450.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1200.0,
+                "length": 12
+            }
+        },
+        {
+            "content": "Line of Credit",
+            "boundingBox": [
+                1788.0,
+                1402.0,
+                2045.0,
+                1407.0,
+                2044.0,
+                1456.0,
+                1787.0,
+                1450.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1788.0,
+                "length": 14
+            }
+        },
+        {
+            "content": "Lender",
+            "boundingBox": [
+                319.0,
+                1467.0,
+                458.0,
+                1466.0,
+                458.0,
+                1506.0,
+                319.0,
+                1507.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 319.0,
+                "length": 6
+            }
+        },
+        {
+            "content": "Balance",
+            "boundingBox": [
+                318.0,
+                1579.0,
+                476.0,
+                1581.0,
+                476.0,
+                1621.0,
+                318.0,
+                1619.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 318.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "Maturity Date",
+            "boundingBox": [
+                318.0,
+                1693.0,
+                588.0,
+                1693.0,
+                588.0,
+                1736.0,
+                318.0,
+                1737.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 318.0,
+                "length": 13
+            }
+        },
+        {
+            "content": "Monthly",
+            "boundingBox": [
+                318.0,
+                1805.0,
+                484.0,
+                1805.0,
+                484.0,
+                1850.0,
+                318.0,
+                1850.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 318.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "Payment",
+            "boundingBox": [
+                322.0,
+                1865.0,
+                482.0,
+                1865.0,
+                482.0,
+                1906.0,
+                322.0,
+                1907.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 322.0,
+                "length": 7
+            }
+        },
+        {
+            "content": "Interest Rate",
+            "boundingBox": [
+                322.0,
+                1922.0,
+                569.0,
+                1921.0,
+                569.0,
+                1963.0,
+                322.0,
+                1966.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 322.0,
+                "length": 13
+            }
+        },
+        {
+            "content": "%",
+            "boundingBox": [
+                1709.0,
+                1921.0,
+                1746.0,
+                1923.0,
+                1744.0,
+                1962.0,
+                1709.0,
+                1962.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1709.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "%",
+            "boundingBox": [
+                2248.0,
+                1921.0,
+                2293.0,
+                1920.0,
+                2293.0,
+                1964.0,
+                2249.0,
+                1965.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2248.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "%",
+            "boundingBox": [
+                1125.0,
+                1979.0,
+                1167.0,
+                1978.0,
+                1164.0,
+                2015.0,
+                1124.0,
+                2018.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1125.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "Balloon Note?",
+            "boundingBox": [
+                319.0,
+                2035.0,
+                591.0,
+                2035.0,
+                591.0,
+                2076.0,
+                319.0,
+                2077.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 319.0,
+                "length": 13
+            }
+        },
+        {
+            "content": "Yes O No",
+            "boundingBox": [
+                783.0,
+                2061.0,
+                1027.0,
+                2063.0,
+                1026.0,
+                2106.0,
+                782.0,
+                2102.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 783.0,
+                "length": 8
+            }
+        },
+        {
+            "content": "Yes No",
+            "boundingBox": [
+                1361.0,
+                2062.0,
+                1603.0,
+                2063.0,
+                1603.0,
+                2106.0,
+                1361.0,
+                2106.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1361.0,
+                "length": 6
+            }
+        },
+        {
+            "content": "Yes No",
+            "boundingBox": [
+                1917.0,
+                2063.0,
+                2166.0,
+                2063.0,
+                2166.0,
+                2108.0,
+                1917.0,
+                2106.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1917.0,
+                "length": 6
+            }
+        },
+        {
+            "content": "37. Has the underlying mortgage/ line of credit been modified/extended or refinanced since the",
+            "boundingBox": [
+                368.0,
+                2230.0,
+                2214.0,
+                2229.0,
+                2214.0,
+                2278.0,
+                368.0,
+                2278.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 368.0,
+                "length": 94
+            }
+        },
+        {
+            "content": "last financial statement? [ Yes [ No",
+            "boundingBox": [
+                448.0,
+                2321.0,
+                1178.0,
+                2321.0,
+                1178.0,
+                2371.0,
+                448.0,
+                2371.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 448.0,
+                "length": 36
+            }
+        },
+        {
+            "content": "If Yes, please describe terms",
+            "boundingBox": [
+                443.0,
+                2397.0,
+                979.0,
+                2398.0,
+                979.0,
+                2448.0,
+                443.0,
+                2447.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 443.0,
+                "length": 29
+            }
+        },
+        {
+            "content": "If Mortgage expires in less than six months, please describe the Board's intention:",
+            "boundingBox": [
+                445.0,
+                2463.0,
+                1979.0,
+                2464.0,
+                1979.0,
+                2514.0,
+                445.0,
+                2513.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 445.0,
+                "length": 83
+            }
+        },
+        {
+            "content": "Co-op Insurance Information",
+            "boundingBox": [
+                922.0,
+                2638.0,
+                1631.0,
+                2637.0,
+                1631.0,
+                2695.0,
+                922.0,
+                2696.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 922.0,
+                "length": 27
+            }
+        },
+        {
+            "content": "Insurance Carrier",
+            "boundingBox": [
+                299.0,
+                2760.0,
+                624.0,
+                2760.0,
+                624.0,
+                2805.0,
+                299.0,
+                2805.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 299.0,
+                "length": 17
+            }
+        },
+        {
+            "content": "Agent Name",
+            "boundingBox": [
+                1231.0,
+                2764.0,
+                1468.0,
+                2763.0,
+                1468.0,
+                2802.0,
+                1232.0,
+                2805.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1231.0,
+                "length": 10
+            }
+        },
+        {
+            "content": "Phone Number",
+            "boundingBox": [
+                296.0,
+                2865.0,
+                584.0,
+                2865.0,
+                584.0,
+                2913.0,
+                296.0,
+                2913.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 296.0,
+                "length": 12
+            }
+        },
+        {
+            "content": "Email",
+            "boundingBox": [
+                1244.0,
+                2871.0,
+                1346.0,
+                2870.0,
+                1347.0,
+                2909.0,
+                1245.0,
+                2909.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1244.0,
+                "length": 5
+            }
+        },
+        {
+            "content": "5",
+            "boundingBox": [
+                1262.0,
+                3055.0,
+                1293.0,
+                3052.0,
+                1290.0,
+                3093.0,
+                1261.0,
+                3097.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1262.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "Created: December 7, 2021",
+            "boundingBox": [
+                1734.0,
+                3104.0,
+                2254.0,
+                3102.0,
+                2254.0,
+                3152.0,
+                1734.0,
+                3153.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1734.0,
+                "length": 25
+            }
+        }
+    ],
+    [
+        {
+            "content": "cítì",
+            "boundingBox": [
+                2083.0,
+                150.0,
+                2250.0,
+                148.0,
+                2250.0,
+                254.0,
+                2081.0,
+                256.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 2083.0,
+                "length": 4
+            }
+        },
+        {
+            "content": "Co-op Management Information",
+            "boundingBox": [
+                879.0,
+                310.0,
+                1672.0,
+                309.0,
+                1672.0,
+                366.0,
+                879.0,
+                369.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 879.0,
+                "length": 28
+            }
+        },
+        {
+            "content": "Certification",
+            "boundingBox": [
+                1152.0,
+                429.0,
+                1401.0,
+                429.0,
+                1401.0,
+                476.0,
+                1152.0,
+                476.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1152.0,
+                "length": 13
+            }
+        },
+        {
+            "content": "The undersigned hereby certifies that to the best of their knowledge and belief, the information and",
+            "boundingBox": [
+                296.0,
+                536.0,
+                2173.0,
+                535.0,
+                2173.0,
+                582.0,
+                296.0,
+                583.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 296.0,
+                "length": 100
+            }
+        },
+        {
+            "content": "statements contained on this form and any attachments are true and correct. The undersigned further",
+            "boundingBox": [
+                295.0,
+                601.0,
+                2214.0,
+                600.0,
+                2214.0,
+                648.0,
+                295.0,
+                649.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 295.0,
+                "length": 99
+            }
+        },
+        {
+            "content": "represents they are authorized by the Board of Directors to provide this information on behalf of the",
+            "boundingBox": [
+                291.0,
+                666.0,
+                2182.0,
+                664.0,
+                2182.0,
+                712.0,
+                291.0,
+                716.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 291.0,
+                "length": 101
+            }
+        },
+        {
+            "content": "Board.",
+            "boundingBox": [
+                301.0,
+                732.0,
+                422.0,
+                729.0,
+                421.0,
+                771.0,
+                300.0,
+                774.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 301.0,
+                "length": 6
+            }
+        },
+        {
+            "content": "Is the co-op professionally managed? [ Yes [ No",
+            "boundingBox": [
+                292.0,
+                861.0,
+                1252.0,
+                859.0,
+                1253.0,
+                910.0,
+                292.0,
+                912.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 292.0,
+                "length": 47
+            }
+        },
+        {
+            "content": "Management Company Name:",
+            "boundingBox": [
+                299.0,
+                985.0,
+                876.0,
+                985.0,
+                876.0,
+                1029.0,
+                299.0,
+                1029.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 299.0,
+                "length": 24
+            }
+        },
+        {
+            "content": "Printed Name of Cooperative Representative or Preparer of Form:",
+            "boundingBox": [
+                292.0,
+                1088.0,
+                1533.0,
+                1089.0,
+                1533.0,
+                1139.0,
+                292.0,
+                1137.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 292.0,
+                "length": 63
+            }
+        },
+        {
+            "content": "Title of Cooperative Representative or Preparer of Form:",
+            "boundingBox": [
+                295.0,
+                1200.0,
+                1362.0,
+                1201.0,
+                1362.0,
+                1249.0,
+                295.0,
+                1247.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 295.0,
+                "length": 56
+            }
+        },
+        {
+            "content": "Email/Phone Number of Cooperative Representative or Preparer of Form:",
+            "boundingBox": [
+                296.0,
+                1368.0,
+                1677.0,
+                1369.0,
+                1677.0,
+                1423.0,
+                296.0,
+                1421.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 296.0,
+                "length": 69
+            }
+        },
+        {
+            "content": "Date",
+            "boundingBox": [
+                303.0,
+                1546.0,
+                390.0,
+                1548.0,
+                386.0,
+                1584.0,
+                302.0,
+                1581.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 303.0,
+                "length": 4
+            }
+        },
+        {
+            "content": "6",
+            "boundingBox": [
+                1259.0,
+                3056.0,
+                1297.0,
+                3056.0,
+                1293.0,
+                3097.0,
+                1259.0,
+                3097.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1259.0,
+                "length": 1
+            }
+        },
+        {
+            "content": "Created: December 7, 2021",
+            "boundingBox": [
+                1734.0,
+                3105.0,
+                2252.0,
+                3101.0,
+                2253.0,
+                3151.0,
+                1734.0,
+                3154.0
+            ],
+            "confidence": "succeeded",
+            "span": {
+                "offset": 1734.0,
+                "length": 25
+            }
+        }
+    ]
+]

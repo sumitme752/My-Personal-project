@@ -1,0 +1,56 @@
+Total Units in the Building:
+Total Units Sold/Closed:
+Total Owner Occupied Units: 
+Total Sponsor Units: 
+Total Bank/Condo Owned Units: 
+Total Sublet Units:
+What is the current reserve balance?
+What were the Maintenance increases for the past three (3) years?
+What special assessments were implemented for the past three (3) years?
+Is there an upcoming Maintenance increase?
+How much upcoming assessments?
+Upcoming Assessments payable over what period of time? 
+Are there any capital improvement projects in progress? 
+What capital improvements are planned over the next 5 years?
+How will capital improvements be paid for: 
+Does the Building have a flip tax or transfer fee? 
+Are there any commercial units? 
+Commercial units are all current on rent?
+Does a single entity or individual own 10% (or more) of the total units?
+If there are Sponsor owned units, is the Sponsor current on financial obligations?
+Has Sponsor been current for the past 12 months?
+Is there any pending/ongoing litigation?
+Please provide the subject of the litigation: 
+Please confirm how the litigation is being paid for:
+What are the income requirements for purchasers?
+What is the date of the Proprietary Lease expiration?
+Is there an underlying mortgage on the Building?
+Please confirm Lender, Loan Amount, Interest Rate, Maturity Date:
+Are monthly payments current:
+Is there also a line of credit & if so amount:
+How much of the maintenance is deductible?
+How many units are in arrears? 
+Is there a fee for storage space? 
+Is there a fee for the gym? 
+Are washers & dryers allowed in each Unit? 
+Does the building have a final Certificate of Occupancy? 
+Is there a ground lease? 
+Is there a tax abatement in place? 
+Does the building allow LLC or Trust purchasers?
+Are there any re-sale restrictions?
+Sublet Policy: 
+Alteration Policy: 
+Pet Policy: 
+When is the last time the roof was repaired or replaced? 
+Have there been any roof issues in the past 12 months? 
+Have there been any leaks into or from this Unit?
+Have there been any issues with vermin, roaches, bedbugs, insects, other in this Unit?
+Have there been any issues with heat/cooling in this Unit?
+Have there been any issues with noise in this Unit?
+What is the electrical service to the Unit?
+Have there been any alterations to this Unit? 
+Have all permits and sign-offs been obtained? 
+Please provide a copy of the alteration agreement.
+Are there any problems on this floor?
+Have there been any bedbug infestations on this floor? 
+Are there any building-wide problems with heating, cooling, plumbing, electricity, mechanical, elevators, leaks, vermin or pest infestation (particularly bedbugs)?
